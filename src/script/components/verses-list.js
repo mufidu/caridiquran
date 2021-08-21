@@ -1,29 +1,31 @@
 /* eslint-disable accessor-pairs */
-import './club-item.js'
+import './verse-item.js'
 
-class ClubList extends HTMLElement {
+class VersesList extends HTMLElement {
   constructor () {
     super()
     this._shadowRoot = this.attachShadow({ mode: 'open' })
   }
 
-  set clubs (clubs) {
-    this._clubs = clubs
+  set verses (verses) {
+    this._verses = verses
     this.render()
   }
 
   render () {
     this._shadowRoot.innerHTML = ''
-
-    this._clubs.forEach((club) => {
-      const clubItemEl = document.createElement('club-item')
-      clubItemEl.club = club
-      this._shadowRoot.appendChild(clubItemEl)
+    this._verses.forEach((verse) => {
+      const verseItemEl = document.createElement('verse-item')
+      verseItemEl.verse = verse
+      console.log(verse)
+      this._shadowRoot.appendChild(verseItemEl)
     })
   }
 
   renderError (message) {
+    this._shadowRoot.innerHTML = ''
     this._shadowRoot.innerHTML = `
+                        <style>
                         .placeholder {
                             font-weight: lighter;
                             color: rgba(0, 0, 0, 0.5);
@@ -31,10 +33,10 @@ class ClubList extends HTMLElement {
                             -moz-user-select: none;
                             -ms-user-select: none;
                             user-select: none;
-                        }`
-    this._shadowRoot.innerHTML = ''
+                        }
+                        </style>`
     this._shadowRoot.innerHTML += `<h2 class="placeholder">${message}</h2>`
   }
 }
 
-customElements.define('club-list', ClubList)
+customElements.define('verses-list', VersesList)

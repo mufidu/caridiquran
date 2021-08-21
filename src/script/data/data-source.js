@@ -1,17 +1,8 @@
+const axios = require('axios')
+
 class DataSource {
-  static searchClub (keyword) {
-    return fetch(
-            `https://www.thesportsdb.com/api/v1/json/1/searchteams.php?t=${keyword}`
-    )
-      .then((response) => response.json())
-      .then((resJSON) => {
-        if (resJSON.teams) {
-          return Promise.resolve(resJSON.teams)
-        } else {
-          // eslint-disable-next-line prefer-promise-reject-errors
-          return Promise.reject(`${keyword} is not found`)
-        }
-      })
+  static searchVerse (keyword) {
+    return axios.get(`http://api.alquran.cloud/v1/search/${keyword}/all/id.indonesian`)
   }
 }
 
