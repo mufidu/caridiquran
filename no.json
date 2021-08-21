@@ -1,0 +1,2479 @@
+{
+    "code": 200,
+    "status": "OK",
+    "data": {
+        "count": 130,
+        "matches": [
+            {
+                "number": 29,
+                "text": "Dialah yang menjadikan bumi sebagai hamparan bagimu dan langit sebagai atap, dan Dia menurunkan air (hujan) dari langit, lalu Dia menghasilkan dengan hujan itu segala buah-buahan sebagai rezeki untukmu; karena itu janganlah kamu mengadakan sekutu-sekutu bagi Allah, padahal kamu mengetahui.",
+                "edition": {
+                    "identifier": "id.indonesian",
+                    "language": "id",
+                    "name": "Bahasa Indonesia",
+                    "englishName": "Unknown",
+                    "type": "translation"
+                },
+                "surah": {
+                    "number": 2,
+                    "name": "\u0633\u064f\u0648\u0631\u064e\u0629\u064f \u0627\u0644\u0628\u064e\u0642\u064e\u0631\u064e\u0629\u0650",
+                    "englishName": "Al-Baqara",
+                    "englishNameTranslation": "The Cow",
+                    "revelationType": "Medinan"
+                },
+                "numberInSurah": 22
+            },
+            {
+                "number": 67,
+                "text": "Dan (ingatlah) ketika Musa memohon air untuk kaumnya, lalu Kami berfirman: \"Pukullah batu itu dengan tongkatmu\". Lalu memancarlah daripadanya dua belas mata air. Sungguh tiap-tiap suku telah mengetahui tempat minumnya (masing-masing). Makan dan minumlah rezeki (yang diberikan) Allah, dan janganlah kamu berkeliaran di muka bumi dengan berbuat kerusakan.",
+                "edition": {
+                    "identifier": "id.indonesian",
+                    "language": "id",
+                    "name": "Bahasa Indonesia",
+                    "englishName": "Unknown",
+                    "type": "translation"
+                },
+                "surah": {
+                    "number": 2,
+                    "name": "\u0633\u064f\u0648\u0631\u064e\u0629\u064f \u0627\u0644\u0628\u064e\u0642\u064e\u0631\u064e\u0629\u0650",
+                    "englishName": "Al-Baqara",
+                    "englishNameTranslation": "The Cow",
+                    "revelationType": "Medinan"
+                },
+                "numberInSurah": 60
+            },
+            {
+                "number": 78,
+                "text": "Musa berkata: \"Sesungguhnya Allah berfirman bahwa sapi betina itu adalah sapi betina yang belum pernah dipakai untuk membajak tanah dan tidak pula untuk mengairi tanaman, tidak bercacat, tidak ada belangnya\". Mereka berkata: \"Sekarang barulah kamu menerangkan hakikat sapi betina yang sebenarnya\". Kemudian mereka menyembelihnya dan hampir saja mereka tidak melaksanakan perintah itu.",
+                "edition": {
+                    "identifier": "id.indonesian",
+                    "language": "id",
+                    "name": "Bahasa Indonesia",
+                    "englishName": "Unknown",
+                    "type": "translation"
+                },
+                "surah": {
+                    "number": 2,
+                    "name": "\u0633\u064f\u0648\u0631\u064e\u0629\u064f \u0627\u0644\u0628\u064e\u0642\u064e\u0631\u064e\u0629\u0650",
+                    "englishName": "Al-Baqara",
+                    "englishNameTranslation": "The Cow",
+                    "revelationType": "Medinan"
+                },
+                "numberInSurah": 71
+            },
+            {
+                "number": 81,
+                "text": "Kemudian setelah itu hatimu menjadi keras seperti batu, bahkan lebih keras lagi. Padahal diantara batu-batu itu sungguh ada yang mengalir sungai-sungai dari padanya dan diantaranya sungguh ada yang terbelah lalu keluarlah mata air dari padanya dan diantaranya sungguh ada yang meluncur jatuh, karena takut kepada Allah. Dan Allah sekali-sekali tidak lengah dari apa yang kamu kerjakan.",
+                "edition": {
+                    "identifier": "id.indonesian",
+                    "language": "id",
+                    "name": "Bahasa Indonesia",
+                    "englishName": "Unknown",
+                    "type": "translation"
+                },
+                "surah": {
+                    "number": 2,
+                    "name": "\u0633\u064f\u0648\u0631\u064e\u0629\u064f \u0627\u0644\u0628\u064e\u0642\u064e\u0631\u064e\u0629\u0650",
+                    "englishName": "Al-Baqara",
+                    "englishNameTranslation": "The Cow",
+                    "revelationType": "Medinan"
+                },
+                "numberInSurah": 74
+            },
+            {
+                "number": 171,
+                "text": "Sesungguhnya dalam penciptaan langit dan bumi, silih bergantinya malam dan siang, bahtera yang berlayar di laut membawa apa yang berguna bagi manusia, dan apa yang Allah turunkan dari langit berupa air, lalu dengan air itu Dia hidupkan bumi sesudah mati (kering)-nya dan Dia sebarkan di bumi itu segala jenis hewan, dan pengisaran angin dan awan yang dikendalikan antara langit dan bumi; sungguh (terdapat) tanda-tanda (keesaan dan kebesaran Allah) bagi kaum yang memikirkan.",
+                "edition": {
+                    "identifier": "id.indonesian",
+                    "language": "id",
+                    "name": "Bahasa Indonesia",
+                    "englishName": "Unknown",
+                    "type": "translation"
+                },
+                "surah": {
+                    "number": 2,
+                    "name": "\u0633\u064f\u0648\u0631\u064e\u0629\u064f \u0627\u0644\u0628\u064e\u0642\u064e\u0631\u064e\u0629\u0650",
+                    "englishName": "Al-Baqara",
+                    "englishNameTranslation": "The Cow",
+                    "revelationType": "Medinan"
+                },
+                "numberInSurah": 164
+            },
+            {
+                "number": 256,
+                "text": "Maka tatkala Thalut keluar membawa tentaranya, ia berkata: \"Sesungguhnya Allah akan menguji kamu dengan suatu sungai. Maka siapa di antara kamu meminum airnya; bukanlah ia pengikutku. Dan barangsiapa tiada meminumnya, kecuali menceduk seceduk tangan, maka dia adalah pengikutku\". Kemudian mereka meminumnya kecuali beberapa orang di antara mereka. Maka tatkala Thalut dan orang-orang yang beriman bersama dia telah menyeberangi sungai itu, orang-orang yang telah minum berkata: \"Tak ada kesanggupan kami pada hari ini untuk melawan Jalut dan tentaranya\". Orang-orang yang meyakini bahwa mereka akan menemui Allah, berkata: \"Berapa banyak terjadi golongan yang sedikit dapat mengalahkan golongan yang banyak dengan izin Allah. Dan Allah beserta orang-orang yang sabar\".",
+                "edition": {
+                    "identifier": "id.indonesian",
+                    "language": "id",
+                    "name": "Bahasa Indonesia",
+                    "englishName": "Unknown",
+                    "type": "translation"
+                },
+                "surah": {
+                    "number": 2,
+                    "name": "\u0633\u064f\u0648\u0631\u064e\u0629\u064f \u0627\u0644\u0628\u064e\u0642\u064e\u0631\u064e\u0629\u0650",
+                    "englishName": "Al-Baqara",
+                    "englishNameTranslation": "The Cow",
+                    "revelationType": "Medinan"
+                },
+                "numberInSurah": 249
+            },
+            {
+                "number": 536,
+                "text": "Hai orang-orang yang beriman, janganlah kamu shalat, sedang kamu dalam keadaan mabuk, sehingga kamu mengerti apa yang kamu ucapkan, (jangan pula hampiri mesjid) sedang kamu dalam keadaan junub, terkecuali sekedar berlalu saja, hingga kamu mandi. Dan jika kamu sakit atau sedang dalam musafir atau datang dari tempat buang air atau kamu telah menyentuh perempuan, kemudian kamu tidak mendapat air, maka bertayamumlah kamu dengan tanah yang baik (suci); sapulah mukamu dan tanganmu. Sesungguhnya Allah Maha Pemaaf lagi Maha Pengampun.",
+                "edition": {
+                    "identifier": "id.indonesian",
+                    "language": "id",
+                    "name": "Bahasa Indonesia",
+                    "englishName": "Unknown",
+                    "type": "translation"
+                },
+                "surah": {
+                    "number": 4,
+                    "name": "\u0633\u064f\u0648\u0631\u064e\u0629\u064f \u0627\u0644\u0646\u0651\u0650\u0633\u064e\u0627\u0621\u0650",
+                    "englishName": "An-Nisaa",
+                    "englishNameTranslation": "The Women",
+                    "revelationType": "Medinan"
+                },
+                "numberInSurah": 43
+            },
+            {
+                "number": 675,
+                "text": "Hai orang-orang yang beriman, apabila kamu hendak mengerjakan shalat, maka basuhlah mukamu dan tanganmu sampai dengan siku, dan sapulah kepalamu dan (basuh) kakimu sampai dengan kedua mata kaki, dan jika kamu junub maka mandilah, dan jika kamu sakit atau dalam perjalanan atau kembali dari tempat buang air (kakus) atau menyentuh perempuan, lalu kamu tidak memperoleh air, maka bertayammumlah dengan tanah yang baik (bersih); sapulah mukamu dan tanganmu dengan tanah itu. Allah tidak hendak menyulitkan kamu, tetapi Dia hendak membersihkan kamu dan menyempurnakan nikmat-Nya bagimu, supaya kamu bersyukur.",
+                "edition": {
+                    "identifier": "id.indonesian",
+                    "language": "id",
+                    "name": "Bahasa Indonesia",
+                    "englishName": "Unknown",
+                    "type": "translation"
+                },
+                "surah": {
+                    "number": 5,
+                    "name": "\u0633\u064f\u0648\u0631\u064e\u0629\u064f \u0627\u0644\u0645\u064e\u0627\u0626\u0640\u0650\u062f\u064e\u0629\u0650",
+                    "englishName": "Al-Maaida",
+                    "englishNameTranslation": "The Table",
+                    "revelationType": "Medinan"
+                },
+                "numberInSurah": 6
+            },
+            {
+                "number": 681,
+                "text": "Dan sesungguhnya Allah telah mengambil perjanjian (dari) Bani Israil dan telah Kami angkat diantara mereka 12 orang pemimpin dan Allah berfirman: \"Sesungguhnya Aku beserta kamu, sesungguhnya jika kamu mendirikan shalat dan menunaikan zakat serta beriman kepada rasul-rasul-Ku dan kamu bantu mereka dan kamu pinjamkan kepada Allah pinjaman yang baik sesungguhnya Aku akan menutupi dosa-dosamu. Dan sesungguhnya kamu akan Kumasukkan ke dalam surga yang mengalir air didalamnya sungai-sungai. Maka barangsiapa yang kafir di antaramu sesudah itu, sesungguhnya ia telah tersesat dari jalan yang lurus.",
+                "edition": {
+                    "identifier": "id.indonesian",
+                    "language": "id",
+                    "name": "Bahasa Indonesia",
+                    "englishName": "Unknown",
+                    "type": "translation"
+                },
+                "surah": {
+                    "number": 5,
+                    "name": "\u0633\u064f\u0648\u0631\u064e\u0629\u064f \u0627\u0644\u0645\u064e\u0627\u0626\u0640\u0650\u062f\u064e\u0629\u0650",
+                    "englishName": "Al-Maaida",
+                    "englishNameTranslation": "The Table",
+                    "revelationType": "Medinan"
+                },
+                "numberInSurah": 12
+            },
+            {
+                "number": 752,
+                "text": "Dan apabila mereka mendengarkan apa yang diturunkan kepada Rasul (Muhammad), kamu lihat mata mereka mencucurkan air mata disebabkan kebenaran (Al Quran) yang telah mereka ketahui (dari kitab-kitab mereka sendiri); seraya berkata: \"Ya Tuhan kami, kami telah beriman, maka catatlah kami bersama orang-orang yang menjadi saksi (atas kebenaran Al Quran dan kenabian Muhammad s. a. w.).",
+                "edition": {
+                    "identifier": "id.indonesian",
+                    "language": "id",
+                    "name": "Bahasa Indonesia",
+                    "englishName": "Unknown",
+                    "type": "translation"
+                },
+                "surah": {
+                    "number": 5,
+                    "name": "\u0633\u064f\u0648\u0631\u064e\u0629\u064f \u0627\u0644\u0645\u064e\u0627\u0626\u0640\u0650\u062f\u064e\u0629\u0650",
+                    "englishName": "Al-Maaida",
+                    "englishNameTranslation": "The Table",
+                    "revelationType": "Medinan"
+                },
+                "numberInSurah": 83
+            },
+            {
+                "number": 859,
+                "text": "Dan tinggalkan lah orang-orang yang menjadikan agama mereka sebagai main-main dan senda gurau, dan mereka telah ditipu oleh kehidupan dunia. Peringatkanlah (mereka) dengan Al-Quran itu agar masing-masing diri tidak dijerumuskan ke dalam neraka, karena perbuatannya sendiri. Tidak akan ada baginya pelindung dan tidak pula pemberi syafa'at selain daripada Allah. Dan jika ia menebus dengan segala macam tebusanpun, niscaya tidak akan diterima itu daripadanya. Mereka itulah orang-orang yang dijerumuskan ke dalam neraka. Bagi mereka (disediakan) minuman dari air yang sedang mendidih dan azab yang pedih disebabkan kekafiran mereka dahulu.",
+                "edition": {
+                    "identifier": "id.indonesian",
+                    "language": "id",
+                    "name": "Bahasa Indonesia",
+                    "englishName": "Unknown",
+                    "type": "translation"
+                },
+                "surah": {
+                    "number": 6,
+                    "name": "\u0633\u064f\u0648\u0631\u064e\u0629\u064f \u0627\u0644\u0623\u064e\u0646\u06e1\u0639\u064e\u0627\u0645\u0650",
+                    "englishName": "Al-An'aam",
+                    "englishNameTranslation": "The Cattle",
+                    "revelationType": "Meccan"
+                },
+                "numberInSurah": 70
+            },
+            {
+                "number": 888,
+                "text": "Dan Dialah yang menurunkan air hujan dari langit, lalu Kami tumbuhkan dengan air itu segala macam tumbuh-tumbuhan maka Kami keluarkan dari tumbuh-tumbuhan itu tanaman yang menghijau. Kami keluarkan dari tanaman yang menghijau itu butir yang banyak; dan dari mayang korma mengurai tangkai-tangkai yang menjulai, dan kebun-kebun anggur, dan (Kami keluarkan pula) zaitun dan delima yang serupa dan yang tidak serupa. Perhatikanlah buahnya di waktu pohonnya berbuah dan (perhatikan pulalah) kematangannya. Sesungguhnya pada yang demikian itu ada tanda-tanda (kekuasaan Allah) bagi orang-orang yang beriman.",
+                "edition": {
+                    "identifier": "id.indonesian",
+                    "language": "id",
+                    "name": "Bahasa Indonesia",
+                    "englishName": "Unknown",
+                    "type": "translation"
+                },
+                "surah": {
+                    "number": 6,
+                    "name": "\u0633\u064f\u0648\u0631\u064e\u0629\u064f \u0627\u0644\u0623\u064e\u0646\u06e1\u0639\u064e\u0627\u0645\u0650",
+                    "englishName": "Al-An'aam",
+                    "englishNameTranslation": "The Cattle",
+                    "revelationType": "Meccan"
+                },
+                "numberInSurah": 99
+            },
+            {
+                "number": 1004,
+                "text": "Dan penghuni neraka menyeru penghuni surga: \"Limpahkanlah kepada kami sedikit air atau makanan yang telah direzekikan Allah kepadamu\". Mereka (penghuni surga) menjawab: \"Sesungguhnya Allah telah mengharamkan keduanya itu atas orang-orang kafir,",
+                "edition": {
+                    "identifier": "id.indonesian",
+                    "language": "id",
+                    "name": "Bahasa Indonesia",
+                    "englishName": "Unknown",
+                    "type": "translation"
+                },
+                "surah": {
+                    "number": 7,
+                    "name": "\u0633\u064f\u0648\u0631\u064e\u0629\u064f \u0627\u0644\u0623\u064e\u0639\u06e1\u0631\u064e\u0627\u0641\u0650",
+                    "englishName": "Al-A'raaf",
+                    "englishNameTranslation": "The Heights",
+                    "revelationType": "Meccan"
+                },
+                "numberInSurah": 50
+            },
+            {
+                "number": 1114,
+                "text": "Dan mereka Kami bagi menjadi dua belas suku yang masing-masingnya berjumlah besar dan Kami wahyukan kepada Musa ketika kaumnya meminta air kepadanya: \"Pukullah batu itu dengan tongkatmu!\". Maka memancarlah dari padanya duabelas mata air. Sesungguhnya tiap-tiap suku mengetahui tempat minum masing-masing. Dan Kami naungkan awan di atas mereka dan Kami turunkan kepada mereka manna dan salwa. (Kami berfirman): \"Makanlah yang baik-baik dari apa yang telah Kami rezekikan kepadamu\". Mereka tidak menganiaya Kami, tapi merekalah yang selalu menganiaya dirinya sendiri.",
+                "edition": {
+                    "identifier": "id.indonesian",
+                    "language": "id",
+                    "name": "Bahasa Indonesia",
+                    "englishName": "Unknown",
+                    "type": "translation"
+                },
+                "surah": {
+                    "number": 7,
+                    "name": "\u0633\u064f\u0648\u0631\u064e\u0629\u064f \u0627\u0644\u0623\u064e\u0639\u06e1\u0631\u064e\u0627\u0641\u0650",
+                    "englishName": "Al-A'raaf",
+                    "englishNameTranslation": "The Heights",
+                    "revelationType": "Meccan"
+                },
+                "numberInSurah": 160
+            },
+            {
+                "number": 1117,
+                "text": "Dan tanyakanlah kepada Bani Israil tentang negeri yang terletak di dekat laut ketika mereka melanggar aturan pada hari Sabtu, di waktu datang kepada mereka ikan-ikan (yang berada di sekitar) mereka terapung-apung di permukaan air, dan di hari-hari yang bukan Sabtu, ikan-ikan itu tidak datang kepada mereka. Demikianlah Kami mencoba mereka disebabkan mereka berlaku fasik.",
+                "edition": {
+                    "identifier": "id.indonesian",
+                    "language": "id",
+                    "name": "Bahasa Indonesia",
+                    "englishName": "Unknown",
+                    "type": "translation"
+                },
+                "surah": {
+                    "number": 7,
+                    "name": "\u0633\u064f\u0648\u0631\u064e\u0629\u064f \u0627\u0644\u0623\u064e\u0639\u06e1\u0631\u064e\u0627\u0641\u0650",
+                    "englishName": "Al-A'raaf",
+                    "englishNameTranslation": "The Heights",
+                    "revelationType": "Meccan"
+                },
+                "numberInSurah": 163
+            },
+            {
+                "number": 1265,
+                "text": "Orang-orang Yahudi berkata: \"Uzair itu putera Allah\" dan orang-orang Nasrani berkata: \"Al Masih itu putera Allah\". Demikianlah itu ucapan mereka dengan mulut mereka, mereka meniru perkataan orang-orang kafir yang terdahulu. Dilaknati Allah mereka, bagaimana mereka sampai berpaling?",
+                "edition": {
+                    "identifier": "id.indonesian",
+                    "language": "id",
+                    "name": "Bahasa Indonesia",
+                    "englishName": "Unknown",
+                    "type": "translation"
+                },
+                "surah": {
+                    "number": 9,
+                    "name": "\u0633\u064f\u0648\u0631\u064e\u0629\u064f \u0627\u0644\u062a\u0651\u064e\u0648\u06e1\u0628\u064e\u0629\u0650",
+                    "englishName": "At-Tawba",
+                    "englishNameTranslation": "The Repentance",
+                    "revelationType": "Medinan"
+                },
+                "numberInSurah": 30
+            },
+            {
+                "number": 1327,
+                "text": "dan tiada (pula) berdosa atas orang-orang yang apabila mereka datang kepadamu, supaya kamu memberi mereka kendaraan, lalu kamu berkata: \"Aku tidak memperoleh kendaraan untuk membawamu\". lalu mereka kembali, sedang mata mereka bercucuran air mata karena kesedihan, lantaran mereka tidak memperoleh apa yang akan mereka nafkahkan.",
+                "edition": {
+                    "identifier": "id.indonesian",
+                    "language": "id",
+                    "name": "Bahasa Indonesia",
+                    "englishName": "Unknown",
+                    "type": "translation"
+                },
+                "surah": {
+                    "number": 9,
+                    "name": "\u0633\u064f\u0648\u0631\u064e\u0629\u064f \u0627\u0644\u062a\u0651\u064e\u0648\u06e1\u0628\u064e\u0629\u0650",
+                    "englishName": "At-Tawba",
+                    "englishNameTranslation": "The Repentance",
+                    "revelationType": "Medinan"
+                },
+                "numberInSurah": 92
+            },
+            {
+                "number": 1368,
+                "text": "Hanya kepada-Nya-lah kamu semuanya akan kembali; sebagai janji yang benar daripada Allah, sesungguhnya Allah menciptakan makhluk pada permulaannya kemudian mengulanginya (menghidupkannya) kembali (sesudah berbangkit), agar Dia memberi pembalasan kepada orang-orang yang beriman dan yang mengerjakan amal saleh dengan adil. Dan untuk orang-orang kafir disediakan minuman air yang panas dan azab yang pedih disebabkan kekafiran mereka.",
+                "edition": {
+                    "identifier": "id.indonesian",
+                    "language": "id",
+                    "name": "Bahasa Indonesia",
+                    "englishName": "Unknown",
+                    "type": "translation"
+                },
+                "surah": {
+                    "number": 10,
+                    "name": "\u0633\u064f\u0648\u0631\u064e\u0629\u064f \u064a\u064f\u0648\u0646\u064f\u0633\u064e",
+                    "englishName": "Yunus",
+                    "englishNameTranslation": "Jonas",
+                    "revelationType": "Meccan"
+                },
+                "numberInSurah": 4
+            },
+            {
+                "number": 1388,
+                "text": "Sesungguhnya perumpamaan kehidupan duniawi itu, adalah seperti air (hujan) yang Kami turunkan dan langit, lalu tumbuhlah dengan suburnya karena air itu tanam-tanaman bumi, di antaranya ada yang dimakan manusia dan binatang ternak. Hingga apabila bumi itu telah sempurna keindahannya, dan memakai (pula) perhiasannya, dan pemilik-permliknya mengira bahwa mereka pasti menguasasinya, tiba-tiba datanglah kepadanya azab Kami di waktu malam atau siang, lalu Kami jadikan (tanam-tanamannya) laksana tanam-tanaman yang sudah disabit, seakan-akan belum pernah tumbuh kemarin. Demikianlah Kami menjelaskan tanda-tanda kekuasaan (Kami) kepada orang-orang berfikir.",
+                "edition": {
+                    "identifier": "id.indonesian",
+                    "language": "id",
+                    "name": "Bahasa Indonesia",
+                    "englishName": "Unknown",
+                    "type": "translation"
+                },
+                "surah": {
+                    "number": 10,
+                    "name": "\u0633\u064f\u0648\u0631\u064e\u0629\u064f \u064a\u064f\u0648\u0646\u064f\u0633\u064e",
+                    "englishName": "Yunus",
+                    "englishNameTranslation": "Jonas",
+                    "revelationType": "Meccan"
+                },
+                "numberInSurah": 24
+            },
+            {
+                "number": 1480,
+                "text": "Dan Dialah yang menciptakan langit dan bumi dalam enam masa, dan adalah singgasana-Nya (sebelum itu) di atas air, agar Dia menguji siapakah di antara kamu yang lebih baik amalnya, dan jika kamu berkata (kepada penduduk Mekah): \"Sesungguhnya kamu akan dibangkitkan sesudah mati\", niscaya orang-orang yang kafir itu akan berkata: \"Ini tidak lain hanyalah sihir yang nyata\".",
+                "edition": {
+                    "identifier": "id.indonesian",
+                    "language": "id",
+                    "name": "Bahasa Indonesia",
+                    "englishName": "Unknown",
+                    "type": "translation"
+                },
+                "surah": {
+                    "number": 11,
+                    "name": "\u0633\u064f\u0648\u0631\u064e\u0629\u064f \u0647\u064f\u0648\u062f\u064d",
+                    "englishName": "Hud",
+                    "englishNameTranslation": "Hud",
+                    "revelationType": "Meccan"
+                },
+                "numberInSurah": 7
+            },
+            {
+                "number": 1513,
+                "text": "Hingga apabila perintah Kami datang dan dapur telah memancarkan air, Kami berfirman: \"Muatkanlah ke dalam bahtera itu dari masing-masing binatang sepasang (jantan dan betina), dan keluargamu kecuali orang yang telah terdahulu ketetapan terhadapnya dan (muatkan pula) orang-orang yang beriman\". Dan tidak beriman bersama dengan Nuh itu kecuali sedikit.",
+                "edition": {
+                    "identifier": "id.indonesian",
+                    "language": "id",
+                    "name": "Bahasa Indonesia",
+                    "englishName": "Unknown",
+                    "type": "translation"
+                },
+                "surah": {
+                    "number": 11,
+                    "name": "\u0633\u064f\u0648\u0631\u064e\u0629\u064f \u0647\u064f\u0648\u062f\u064d",
+                    "englishName": "Hud",
+                    "englishNameTranslation": "Hud",
+                    "revelationType": "Meccan"
+                },
+                "numberInSurah": 40
+            },
+            {
+                "number": 1516,
+                "text": "Anaknya menjawab: \"Aku akan mencari perlindungan ke gunung yang dapat memeliharaku dari air bah!\" Nuh berkata: \"Tidak ada yang melindungi hari ini dari azab Allah selain Allah (saja) Yang Maha Penyayang\". Dan gelombang menjadi penghalang antara keduanya; maka jadilah anak itu termasuk orang-orang yang ditenggelamkan.",
+                "edition": {
+                    "identifier": "id.indonesian",
+                    "language": "id",
+                    "name": "Bahasa Indonesia",
+                    "englishName": "Unknown",
+                    "type": "translation"
+                },
+                "surah": {
+                    "number": 11,
+                    "name": "\u0633\u064f\u0648\u0631\u064e\u0629\u064f \u0647\u064f\u0648\u062f\u064d",
+                    "englishName": "Hud",
+                    "englishNameTranslation": "Hud",
+                    "revelationType": "Meccan"
+                },
+                "numberInSurah": 43
+            },
+            {
+                "number": 1517,
+                "text": "Dan difirmankan: \"Hai bumi telanlah airmu, dan hai langit (hujan) berhentilah,\" dan airpun disurutkan, perintahpun diselesaikan dan bahtera itupun berlabuh di atas bukit Judi, dan dikatakan: \"Binasalah orang-orang yang zalim\".",
+                "edition": {
+                    "identifier": "id.indonesian",
+                    "language": "id",
+                    "name": "Bahasa Indonesia",
+                    "englishName": "Unknown",
+                    "type": "translation"
+                },
+                "surah": {
+                    "number": 11,
+                    "name": "\u0633\u064f\u0648\u0631\u064e\u0629\u064f \u0647\u064f\u0648\u062f\u064d",
+                    "englishName": "Hud",
+                    "englishNameTranslation": "Hud",
+                    "revelationType": "Meccan"
+                },
+                "numberInSurah": 44
+            },
+            {
+                "number": 1615,
+                "text": "Kemudian datanglah kelompok orang-orang musafir, lalu mereka menyuruh seorang pengambil air, maka dia menurunkan timbanya, dia berkata: \"Oh; kabar gembira, ini seorang anak muda!\" Kemudian mereka menyembunyikan dia sebagai barang dagangan. Dan Allah Maha Mengetahui apa yang mereka kerjakan.",
+                "edition": {
+                    "identifier": "id.indonesian",
+                    "language": "id",
+                    "name": "Bahasa Indonesia",
+                    "englishName": "Unknown",
+                    "type": "translation"
+                },
+                "surah": {
+                    "number": 12,
+                    "name": "\u0633\u064f\u0648\u0631\u064e\u0629\u064f \u064a\u064f\u0648\u0633\u064f\u0641\u064e",
+                    "englishName": "Yusuf",
+                    "englishNameTranslation": "Joseph",
+                    "revelationType": "Meccan"
+                },
+                "numberInSurah": 19
+            },
+            {
+                "number": 1711,
+                "text": "Dan di bumi ini terdapat bagian-bagian yang berdampingan, dan kebun-kebun anggur, tanaman-tanaman dan pohon korma yang bercabang dan yang tidak bercabang, disirami dengan air yang sama. Kami melebihkan sebahagian tanam-tanaman itu atas sebahagian yang lain tentang rasanya. Sesungguhnya pada yang demikian itu terdapat tanda-tanda (kebesaran Allah) bagi kaum yang berfikir.",
+                "edition": {
+                    "identifier": "id.indonesian",
+                    "language": "id",
+                    "name": "Bahasa Indonesia",
+                    "englishName": "Unknown",
+                    "type": "translation"
+                },
+                "surah": {
+                    "number": 13,
+                    "name": "\u0633\u064f\u0648\u0631\u064e\u0629\u064f \u0627\u0644\u0631\u0651\u064e\u0639\u06e1\u062f\u0650",
+                    "englishName": "Ar-Ra'd",
+                    "englishNameTranslation": "The Thunder",
+                    "revelationType": "Medinan"
+                },
+                "numberInSurah": 4
+            },
+            {
+                "number": 1721,
+                "text": "Hanya bagi Allah-lah (hak mengabulkan) doa yang benar. Dan berhala-berhala yang mereka sembah selain Allah tidak dapat memperkenankan sesuatupun bagi mereka, melainkan seperti orang yang membukakan kedua telapak tangannya ke dalam air supaya sampai air ke mulutnya, padahal air itu tidak dapat sampai ke mulutnya. Dan doa (ibadat) orang-orang kafir itu, hanyalah sia-sia belaka.",
+                "edition": {
+                    "identifier": "id.indonesian",
+                    "language": "id",
+                    "name": "Bahasa Indonesia",
+                    "englishName": "Unknown",
+                    "type": "translation"
+                },
+                "surah": {
+                    "number": 13,
+                    "name": "\u0633\u064f\u0648\u0631\u064e\u0629\u064f \u0627\u0644\u0631\u0651\u064e\u0639\u06e1\u062f\u0650",
+                    "englishName": "Ar-Ra'd",
+                    "englishNameTranslation": "The Thunder",
+                    "revelationType": "Medinan"
+                },
+                "numberInSurah": 14
+            },
+            {
+                "number": 1724,
+                "text": "Allah telah menurunkan air (hujan) dari langit, maka mengalirlah air di lembah-lembah menurut ukurannya, maka arus itu membawa buih yang mengambang. Dan dari apa (logam) yang mereka lebur dalam api untuk membuat perhiasan atau alat-alat, ada (pula) buihnya seperti buih arus itu. Demikianlah Allah membuat perumpamaan (bagi) yang benar dan yang bathil. Adapun buih itu, akan hilang sebagai sesuatu yang tak ada harganya; adapun yang memberi manfaat kepada manusia, maka ia tetap di bumi. Demikianlah Allah membuat perumpamaan-perumpamaan.",
+                "edition": {
+                    "identifier": "id.indonesian",
+                    "language": "id",
+                    "name": "Bahasa Indonesia",
+                    "englishName": "Unknown",
+                    "type": "translation"
+                },
+                "surah": {
+                    "number": 13,
+                    "name": "\u0633\u064f\u0648\u0631\u064e\u0629\u064f \u0627\u0644\u0631\u0651\u064e\u0639\u06e1\u062f\u0650",
+                    "englishName": "Ar-Ra'd",
+                    "englishNameTranslation": "The Thunder",
+                    "revelationType": "Medinan"
+                },
+                "numberInSurah": 17
+            },
+            {
+                "number": 1766,
+                "text": "di hadapannya ada Jahannam dan dia akan diberi minuman dengan air nanah,",
+                "edition": {
+                    "identifier": "id.indonesian",
+                    "language": "id",
+                    "name": "Bahasa Indonesia",
+                    "englishName": "Unknown",
+                    "type": "translation"
+                },
+                "surah": {
+                    "number": 14,
+                    "name": "\u0633\u064f\u0648\u0631\u064e\u0629\u064f \u0625\u0650\u0628\u06e1\u0631\u064e\u0627\u0647\u0650\u064a\u0645\u064e",
+                    "englishName": "Ibrahim",
+                    "englishNameTranslation": "Abraham",
+                    "revelationType": "Meccan"
+                },
+                "numberInSurah": 16
+            },
+            {
+                "number": 1767,
+                "text": "diminumnnya air nanah itu dan hampir dia tidak bisa menelannya dan datanglah (bahaya) maut kepadanya dari segenap penjuru, tetapi dia tidak juga mati, dan dihadapannya masih ada azab yang berat.",
+                "edition": {
+                    "identifier": "id.indonesian",
+                    "language": "id",
+                    "name": "Bahasa Indonesia",
+                    "englishName": "Unknown",
+                    "type": "translation"
+                },
+                "surah": {
+                    "number": 14,
+                    "name": "\u0633\u064f\u0648\u0631\u064e\u0629\u064f \u0625\u0650\u0628\u06e1\u0631\u064e\u0627\u0647\u0650\u064a\u0645\u064e",
+                    "englishName": "Ibrahim",
+                    "englishNameTranslation": "Abraham",
+                    "revelationType": "Meccan"
+                },
+                "numberInSurah": 17
+            },
+            {
+                "number": 1782,
+                "text": "Allah-lah yang telah menciptakan langit dan bumi dan menurunkan air hujan dari langit, kemudian Dia mengeluarkan dengan air hujan itu berbagai buah-buahan menjadi rezeki untukmu; dan Dia telah menundukkan bahtera bagimu supaya bahtera itu, berlayar di lautan dengan kehendak-Nya, dan Dia telah menundukkan (pula) bagimu sungai-sungai.",
+                "edition": {
+                    "identifier": "id.indonesian",
+                    "language": "id",
+                    "name": "Bahasa Indonesia",
+                    "englishName": "Unknown",
+                    "type": "translation"
+                },
+                "surah": {
+                    "number": 14,
+                    "name": "\u0633\u064f\u0648\u0631\u064e\u0629\u064f \u0625\u0650\u0628\u06e1\u0631\u064e\u0627\u0647\u0650\u064a\u0645\u064e",
+                    "englishName": "Ibrahim",
+                    "englishNameTranslation": "Abraham",
+                    "revelationType": "Meccan"
+                },
+                "numberInSurah": 32
+            },
+            {
+                "number": 1824,
+                "text": "Dan Kami telah meniupkan angin untuk mengawinkan (tumbuh-tumbuhan) dan Kami turunkan hujan dari langit, lalu Kami beri minum kamu dengan air itu, dan sekali-kali bukanlah kamu yang menyimpannya.",
+                "edition": {
+                    "identifier": "id.indonesian",
+                    "language": "id",
+                    "name": "Bahasa Indonesia",
+                    "englishName": "Unknown",
+                    "type": "translation"
+                },
+                "surah": {
+                    "number": 15,
+                    "name": "\u0633\u064f\u0648\u0631\u064e\u0629\u064f \u0627\u0644\u062d\u0650\u062c\u06e1\u0631\u0650",
+                    "englishName": "Al-Hijr",
+                    "englishNameTranslation": "The Rock",
+                    "revelationType": "Meccan"
+                },
+                "numberInSurah": 22
+            },
+            {
+                "number": 1847,
+                "text": "Sesungguhnya orang-orang yang bertakwa itu berada dalam surga (taman-taman) dan (di dekat) mata air-mata air (yang mengalir).",
+                "edition": {
+                    "identifier": "id.indonesian",
+                    "language": "id",
+                    "name": "Bahasa Indonesia",
+                    "englishName": "Unknown",
+                    "type": "translation"
+                },
+                "surah": {
+                    "number": 15,
+                    "name": "\u0633\u064f\u0648\u0631\u064e\u0629\u064f \u0627\u0644\u062d\u0650\u062c\u06e1\u0631\u0650",
+                    "englishName": "Al-Hijr",
+                    "englishNameTranslation": "The Rock",
+                    "revelationType": "Meccan"
+                },
+                "numberInSurah": 45
+            },
+            {
+                "number": 1911,
+                "text": "Dialah, Yang telah menurunkan air hujan dari langit untuk kamu, sebahagiannya menjadi minuman dan sebahagiannya (menyuburkan) tumbuh-tumbuhan, yang pada (tempat tumbuhnya) kamu menggembalakan ternakmu.",
+                "edition": {
+                    "identifier": "id.indonesian",
+                    "language": "id",
+                    "name": "Bahasa Indonesia",
+                    "englishName": "Unknown",
+                    "type": "translation"
+                },
+                "surah": {
+                    "number": 16,
+                    "name": "\u0633\u064f\u0648\u0631\u064e\u0629\u064f \u0627\u0644\u0646\u0651\u064e\u062d\u06e1\u0644\u0650",
+                    "englishName": "An-Nahl",
+                    "englishNameTranslation": "The Bee",
+                    "revelationType": "Meccan"
+                },
+                "numberInSurah": 10
+            },
+            {
+                "number": 1912,
+                "text": "Dia menumbuhkan bagi kamu dengan air hujan itu tanam-tanaman; zaitun, korma, anggur dan segala macam buah-buahan. Sesungguhnya pada yang demikian itu benar-benar ada tanda (kekuasaan Allah) bagi kaum yang memikirkan.",
+                "edition": {
+                    "identifier": "id.indonesian",
+                    "language": "id",
+                    "name": "Bahasa Indonesia",
+                    "englishName": "Unknown",
+                    "type": "translation"
+                },
+                "surah": {
+                    "number": 16,
+                    "name": "\u0633\u064f\u0648\u0631\u064e\u0629\u064f \u0627\u0644\u0646\u0651\u064e\u062d\u06e1\u0644\u0650",
+                    "englishName": "An-Nahl",
+                    "englishNameTranslation": "The Bee",
+                    "revelationType": "Meccan"
+                },
+                "numberInSurah": 11
+            },
+            {
+                "number": 1966,
+                "text": "Dan Allah menurunkan dari langit air (hujan) dan dengan air itu dihidupkan-Nya bumi sesudah matinya. Sesungguhnya pada yang demikian itu benar-benar terdapat tanda-tanda (kebesaran Tuhan) bagi orang-orang yang mendengarkan (pelajaran).",
+                "edition": {
+                    "identifier": "id.indonesian",
+                    "language": "id",
+                    "name": "Bahasa Indonesia",
+                    "englishName": "Unknown",
+                    "type": "translation"
+                },
+                "surah": {
+                    "number": 16,
+                    "name": "\u0633\u064f\u0648\u0631\u064e\u0629\u064f \u0627\u0644\u0646\u0651\u064e\u062d\u06e1\u0644\u0650",
+                    "englishName": "An-Nahl",
+                    "englishNameTranslation": "The Bee",
+                    "revelationType": "Meccan"
+                },
+                "numberInSurah": 65
+            },
+            {
+                "number": 2119,
+                "text": "Dan mereka berkata: \"Kami sekali-kali tidak percaya kepadamu hingga kamu memancarkan mata air dan bumi untuk kami,",
+                "edition": {
+                    "identifier": "id.indonesian",
+                    "language": "id",
+                    "name": "Bahasa Indonesia",
+                    "englishName": "Unknown",
+                    "type": "translation"
+                },
+                "surah": {
+                    "number": 17,
+                    "name": "\u0633\u064f\u0648\u0631\u064e\u0629\u064f \u0627\u0644\u0625\u0650\u0633\u06e1\u0631\u064e\u0627\u0621\u0650",
+                    "englishName": "Al-Israa",
+                    "englishNameTranslation": "The Night Journey",
+                    "revelationType": "Meccan"
+                },
+                "numberInSurah": 90
+            },
+            {
+                "number": 2169,
+                "text": "Dan katakanlah: \"Kebenaran itu datangnya dari Tuhanmu; maka barangsiapa yang ingin (beriman) hendaklah ia beriman, dan barangsiapa yang ingin (kafir) biarlah ia kafir\". Sesungguhnya Kami telah sediakan bagi orang orang zalim itu neraka, yang gejolaknya mengepung mereka. Dan jika mereka meminta minum, niscaya mereka akan diberi minum dengan air seperti besi yang mendidih yang menghanguskan muka. Itulah minuman yang paling buruk dan tempat istirahat yang paling jelek.",
+                "edition": {
+                    "identifier": "id.indonesian",
+                    "language": "id",
+                    "name": "Bahasa Indonesia",
+                    "englishName": "Unknown",
+                    "type": "translation"
+                },
+                "surah": {
+                    "number": 18,
+                    "name": "\u0633\u064f\u0648\u0631\u064e\u0629\u064f \u0627\u0644\u0643\u064e\u0647\u06e1\u0641\u0650",
+                    "englishName": "Al-Kahf",
+                    "englishNameTranslation": "The Cave",
+                    "revelationType": "Meccan"
+                },
+                "numberInSurah": 29
+            },
+            {
+                "number": 2177,
+                "text": "Kawannya (yang mukmin) berkata kepadanya -- sedang dia bercakap-cakap dengannya: \"Apakah kamu kafir kepada (Tuhan) yang menciptakan kamu dari tanah, kemudian dari setetes air mani, lalu Dia menjadikan kamu seorang laki-laki yang sempurna?",
+                "edition": {
+                    "identifier": "id.indonesian",
+                    "language": "id",
+                    "name": "Bahasa Indonesia",
+                    "englishName": "Unknown",
+                    "type": "translation"
+                },
+                "surah": {
+                    "number": 18,
+                    "name": "\u0633\u064f\u0648\u0631\u064e\u0629\u064f \u0627\u0644\u0643\u064e\u0647\u06e1\u0641\u0650",
+                    "englishName": "Al-Kahf",
+                    "englishNameTranslation": "The Cave",
+                    "revelationType": "Meccan"
+                },
+                "numberInSurah": 37
+            },
+            {
+                "number": 2181,
+                "text": "atau airnya menjadi surut ke dalam tanah, maka sekali-kali kamu tidak dapat menemukannya lagi\".",
+                "edition": {
+                    "identifier": "id.indonesian",
+                    "language": "id",
+                    "name": "Bahasa Indonesia",
+                    "englishName": "Unknown",
+                    "type": "translation"
+                },
+                "surah": {
+                    "number": 18,
+                    "name": "\u0633\u064f\u0648\u0631\u064e\u0629\u064f \u0627\u0644\u0643\u064e\u0647\u06e1\u0641\u0650",
+                    "englishName": "Al-Kahf",
+                    "englishNameTranslation": "The Cave",
+                    "revelationType": "Meccan"
+                },
+                "numberInSurah": 41
+            },
+            {
+                "number": 2185,
+                "text": "Dan berilah perumpamaan kepada mereka (manusia), kehidupan dunia sebagai air hujan yang Kami turunkan dari langit, maka menjadi subur karenanya tumbuh-tumbuhan di muka bumi, kemudian tumbuh-tumbuhan itu menjadi kering yang diterbangkan oleh angin. Dan adalah Allah, Maha Kuasa atas segala sesuatu.",
+                "edition": {
+                    "identifier": "id.indonesian",
+                    "language": "id",
+                    "name": "Bahasa Indonesia",
+                    "englishName": "Unknown",
+                    "type": "translation"
+                },
+                "surah": {
+                    "number": 18,
+                    "name": "\u0633\u064f\u0648\u0631\u064e\u0629\u064f \u0627\u0644\u0643\u064e\u0647\u06e1\u0641\u0650",
+                    "englishName": "Al-Kahf",
+                    "englishNameTranslation": "The Cave",
+                    "revelationType": "Meccan"
+                },
+                "numberInSurah": 45
+            },
+            {
+                "number": 2401,
+                "text": "Yang telah menjadikan bagimu bumi sebagai hamparan dan Yang telah menjadikan bagimu di bumi itu jalan-ja]an, dan menurunkan dari langit air hujan. Maka Kami tumbuhkan dengan air hujan itu berjenis-jenis dari tumbuh-tumbuhan yang bermacam-macam.",
+                "edition": {
+                    "identifier": "id.indonesian",
+                    "language": "id",
+                    "name": "Bahasa Indonesia",
+                    "englishName": "Unknown",
+                    "type": "translation"
+                },
+                "surah": {
+                    "number": 20,
+                    "name": "\u0633\u064f\u0648\u0631\u064e\u0629\u064f \u0637\u0647",
+                    "englishName": "Taa-Haa",
+                    "englishNameTranslation": "Taa-Haa",
+                    "revelationType": "Meccan"
+                },
+                "numberInSurah": 53
+            },
+            {
+                "number": 2488,
+                "text": "Bahkan mereka berkata (pula): \"(Al Quran itu adalah) mimpi-mimpi yang kalut, malah diada-adakannya, bahkan dia sendiri seorang penyair, maka hendaknya ia mendatangkan kepada kita suatu mukjizat, sebagai-mana rasul-rasul yang telah lalu di-utus\".",
+                "edition": {
+                    "identifier": "id.indonesian",
+                    "language": "id",
+                    "name": "Bahasa Indonesia",
+                    "englishName": "Unknown",
+                    "type": "translation"
+                },
+                "surah": {
+                    "number": 21,
+                    "name": "\u0633\u064f\u0648\u0631\u064e\u0629\u064f \u0627\u0644\u0623\u064e\u0646\u0628\u0650\u064a\u064e\u0627\u0621\u0650",
+                    "englishName": "Al-Anbiyaa",
+                    "englishNameTranslation": "The Prophets",
+                    "revelationType": "Meccan"
+                },
+                "numberInSurah": 5
+            },
+            {
+                "number": 2513,
+                "text": "Dan apakah orang-orang yang kafir tidak mengetahui bahwasanya langit dan bumi itu keduanya dahulu adalah suatu yang padu, kemudian Kami pisahkan antara keduanya. Dan dari air Kami jadikan segala sesuatu yang hidup. Maka mengapakah mereka tiada juga beriman?",
+                "edition": {
+                    "identifier": "id.indonesian",
+                    "language": "id",
+                    "name": "Bahasa Indonesia",
+                    "englishName": "Unknown",
+                    "type": "translation"
+                },
+                "surah": {
+                    "number": 21,
+                    "name": "\u0633\u064f\u0648\u0631\u064e\u0629\u064f \u0627\u0644\u0623\u064e\u0646\u0628\u0650\u064a\u064e\u0627\u0621\u0650",
+                    "englishName": "Al-Anbiyaa",
+                    "englishNameTranslation": "The Prophets",
+                    "revelationType": "Meccan"
+                },
+                "numberInSurah": 30
+            },
+            {
+                "number": 2600,
+                "text": "Hai manusia, jika kamu dalam keraguan tentang kebangkitan (dari kubur), maka (ketahuilah) sesungguhnya Kami telah menjadikan kamu dari tanah, kemudian dari setetes mani, kemudian dari segumpal darah, kemudian dari segumpal daging yang sempurna kejadiannya dan yang tidak sempurna, agar Kami jelaskan kepada kamu dan Kami tetapkan dalam rahim, apa yang Kami kehendaki sampai waktu yang sudah ditentukan, kemudian Kami keluarkan kamu sebagai bayi, kemudian (dengan berangsur-angsur) kamu sampailah kepada kedewasaan, dan di antara kamu ada yang diwafatkan dan (adapula) di antara kamu yang dipanjangkan umurnya sampai pikun, supaya dia tidak mengetahui lagi sesuatupun yang dahulunya telah diketahuinya. Dan kamu lihat bumi ini kering, kemudian apabila telah Kami turunkan air di atasnya, hiduplah bumi itu dan suburlah dan menumbuhkan berbagai macam tumbuh-tumbuhan yang indah.",
+                "edition": {
+                    "identifier": "id.indonesian",
+                    "language": "id",
+                    "name": "Bahasa Indonesia",
+                    "englishName": "Unknown",
+                    "type": "translation"
+                },
+                "surah": {
+                    "number": 22,
+                    "name": "\u0633\u064f\u0648\u0631\u064e\u0629\u064f \u0627\u0644\u062d\u064e\u062c\u0651\u0650",
+                    "englishName": "Al-Hajj",
+                    "englishNameTranslation": "The Pilgrimage",
+                    "revelationType": "Medinan"
+                },
+                "numberInSurah": 5
+            },
+            {
+                "number": 2614,
+                "text": "Inilah dua golongan (golongan mukmin dan golongan kafir) yang bertengkar, mereka saling bertengkar mengenai Tuhan mereka. Maka orang kafir akan dibuatkan untuk mereka pakaian-pakaian dari api neraka. Disiramkan air yang sedang mendidih ke atas kepala mereka.",
+                "edition": {
+                    "identifier": "id.indonesian",
+                    "language": "id",
+                    "name": "Bahasa Indonesia",
+                    "englishName": "Unknown",
+                    "type": "translation"
+                },
+                "surah": {
+                    "number": 22,
+                    "name": "\u0633\u064f\u0648\u0631\u064e\u0629\u064f \u0627\u0644\u062d\u064e\u062c\u0651\u0650",
+                    "englishName": "Al-Hajj",
+                    "englishNameTranslation": "The Pilgrimage",
+                    "revelationType": "Medinan"
+                },
+                "numberInSurah": 19
+            },
+            {
+                "number": 2615,
+                "text": "Dengan air itu dihancur luluhkan segala apa yang ada dalam perut mereka dan juga kulit (mereka).",
+                "edition": {
+                    "identifier": "id.indonesian",
+                    "language": "id",
+                    "name": "Bahasa Indonesia",
+                    "englishName": "Unknown",
+                    "type": "translation"
+                },
+                "surah": {
+                    "number": 22,
+                    "name": "\u0633\u064f\u0648\u0631\u064e\u0629\u064f \u0627\u0644\u062d\u064e\u062c\u0651\u0650",
+                    "englishName": "Al-Hajj",
+                    "englishNameTranslation": "The Pilgrimage",
+                    "revelationType": "Medinan"
+                },
+                "numberInSurah": 20
+            },
+            {
+                "number": 2658,
+                "text": "Apakah kamu tiada melihat, bahwasanya Allah menurunkan air dari langit, lalu jadilah bumi itu hijau? Sesungguhnya Allah Maha Halus lagi Maha Mengetahui.",
+                "edition": {
+                    "identifier": "id.indonesian",
+                    "language": "id",
+                    "name": "Bahasa Indonesia",
+                    "englishName": "Unknown",
+                    "type": "translation"
+                },
+                "surah": {
+                    "number": 22,
+                    "name": "\u0633\u064f\u0648\u0631\u064e\u0629\u064f \u0627\u0644\u062d\u064e\u062c\u0651\u0650",
+                    "englishName": "Al-Hajj",
+                    "englishNameTranslation": "The Pilgrimage",
+                    "revelationType": "Medinan"
+                },
+                "numberInSurah": 63
+            },
+            {
+                "number": 2686,
+                "text": "Kemudian Kami jadikan saripati itu air mani (yang disimpan) dalam tempat yang kokoh (rahim).",
+                "edition": {
+                    "identifier": "id.indonesian",
+                    "language": "id",
+                    "name": "Bahasa Indonesia",
+                    "englishName": "Unknown",
+                    "type": "translation"
+                },
+                "surah": {
+                    "number": 23,
+                    "name": "\u0633\u064f\u0648\u0631\u064e\u0629\u064f \u0627\u0644\u0645\u064f\u0624\u06e1\u0645\u0650\u0646\u064f\u0648\u0646\u064e",
+                    "englishName": "Al-Muminoon",
+                    "englishNameTranslation": "The Believers",
+                    "revelationType": "Meccan"
+                },
+                "numberInSurah": 13
+            },
+            {
+                "number": 2687,
+                "text": "Kemudian air mani itu Kami jadikan segumpal darah, lalu segumpal darah itu Kami jadikan segumpal daging, dan segumpal daging itu Kami jadikan tulang belulang, lalu tulang belulang itu Kami bungkus dengan daging. Kemudian Kami jadikan dia makhluk yang (berbentuk) lain. Maka Maha sucilah Allah, Pencipta Yang Paling Baik.",
+                "edition": {
+                    "identifier": "id.indonesian",
+                    "language": "id",
+                    "name": "Bahasa Indonesia",
+                    "englishName": "Unknown",
+                    "type": "translation"
+                },
+                "surah": {
+                    "number": 23,
+                    "name": "\u0633\u064f\u0648\u0631\u064e\u0629\u064f \u0627\u0644\u0645\u064f\u0624\u06e1\u0645\u0650\u0646\u064f\u0648\u0646\u064e",
+                    "englishName": "Al-Muminoon",
+                    "englishNameTranslation": "The Believers",
+                    "revelationType": "Meccan"
+                },
+                "numberInSurah": 14
+            },
+            {
+                "number": 2691,
+                "text": "Dan Kami turunkan air dari langit menurut suatu ukuran; lalu Kami jadikan air itu menetap di bumi, dan sesungguhnya Kami benar-benar berkuasa menghilangkannya.",
+                "edition": {
+                    "identifier": "id.indonesian",
+                    "language": "id",
+                    "name": "Bahasa Indonesia",
+                    "englishName": "Unknown",
+                    "type": "translation"
+                },
+                "surah": {
+                    "number": 23,
+                    "name": "\u0633\u064f\u0648\u0631\u064e\u0629\u064f \u0627\u0644\u0645\u064f\u0624\u06e1\u0645\u0650\u0646\u064f\u0648\u0646\u064e",
+                    "englishName": "Al-Muminoon",
+                    "englishNameTranslation": "The Believers",
+                    "revelationType": "Meccan"
+                },
+                "numberInSurah": 18
+            },
+            {
+                "number": 2692,
+                "text": "Lalu dengan air itu, Kami tumbuhkan untuk kamu kebun-kebun kurma dan anggur; di dalam kebun-kebun itu kamu peroleh buah-buahan yang banyak dan sebahagian dari buah-buahan itu kamu makan,",
+                "edition": {
+                    "identifier": "id.indonesian",
+                    "language": "id",
+                    "name": "Bahasa Indonesia",
+                    "englishName": "Unknown",
+                    "type": "translation"
+                },
+                "surah": {
+                    "number": 23,
+                    "name": "\u0633\u064f\u0648\u0631\u064e\u0629\u064f \u0627\u0644\u0645\u064f\u0624\u06e1\u0645\u0650\u0646\u064f\u0648\u0646\u064e",
+                    "englishName": "Al-Muminoon",
+                    "englishNameTranslation": "The Believers",
+                    "revelationType": "Meccan"
+                },
+                "numberInSurah": 19
+            },
+            {
+                "number": 2694,
+                "text": "Dan sesungguhnya pada binatang-binatang ternak, benar-benar terdapat pelajaran yang penting bagi kamu, Kami memberi minum kamu dari air susu yang ada dalam perutnya, dan (juga) pada binatang-binatang ternak itu terdapat faedah yang banyak untuk kamu, dan sebagian daripadanya kamu makan,",
+                "edition": {
+                    "identifier": "id.indonesian",
+                    "language": "id",
+                    "name": "Bahasa Indonesia",
+                    "englishName": "Unknown",
+                    "type": "translation"
+                },
+                "surah": {
+                    "number": 23,
+                    "name": "\u0633\u064f\u0648\u0631\u064e\u0629\u064f \u0627\u0644\u0645\u064f\u0624\u06e1\u0645\u0650\u0646\u064f\u0648\u0646\u064e",
+                    "englishName": "Al-Muminoon",
+                    "englishNameTranslation": "The Believers",
+                    "revelationType": "Meccan"
+                },
+                "numberInSurah": 21
+            },
+            {
+                "number": 2700,
+                "text": "Lalu Kami wahyukan kepadanya: \"Buatlah bahtera di bawah penilikan dan petunjuk Kami, maka apabila perintah Kami telah datang dan tanur telah memancarkan air, maka masukkanlah ke dalam bahtera itu sepasang dari tiap-tiap (jenis), dan (juga) keluargamu, kecuali orang yang telah lebih dahulu ditetapkan (akan ditimpa azab) di antara mereka. Dan janganlah kamu bicarakan dengan Aku tentang orang-orang yang zalim, karena sesungguhnya mereka itu akan ditenggelamkan.",
+                "edition": {
+                    "identifier": "id.indonesian",
+                    "language": "id",
+                    "name": "Bahasa Indonesia",
+                    "englishName": "Unknown",
+                    "type": "translation"
+                },
+                "surah": {
+                    "number": 23,
+                    "name": "\u0633\u064f\u0648\u0631\u064e\u0629\u064f \u0627\u0644\u0645\u064f\u0624\u06e1\u0645\u0650\u0646\u064f\u0648\u0646\u064e",
+                    "englishName": "Al-Muminoon",
+                    "englishNameTranslation": "The Believers",
+                    "revelationType": "Meccan"
+                },
+                "numberInSurah": 27
+            },
+            {
+                "number": 2723,
+                "text": "Dan telah Kami jadikan (Isa) putera Maryam beserta ibunya suatu bukti yang nyata bagi (kekuasaan Kami), dan Kami melindungi mereka di suatu tanah tinggi yang datar yang banyak terdapat padang-padang rumput dan sumber-sumber air bersih yang mengalir.",
+                "edition": {
+                    "identifier": "id.indonesian",
+                    "language": "id",
+                    "name": "Bahasa Indonesia",
+                    "englishName": "Unknown",
+                    "type": "translation"
+                },
+                "surah": {
+                    "number": 23,
+                    "name": "\u0633\u064f\u0648\u0631\u064e\u0629\u064f \u0627\u0644\u0645\u064f\u0624\u06e1\u0645\u0650\u0646\u064f\u0648\u0646\u064e",
+                    "englishName": "Al-Muminoon",
+                    "englishNameTranslation": "The Believers",
+                    "revelationType": "Meccan"
+                },
+                "numberInSurah": 50
+            },
+            {
+                "number": 2830,
+                "text": "Dan orang-orang kafir amal-amal mereka adalah laksana fatamorgana di tanah yang datar, yang disangka air oleh orang-orang yang dahaga, tetapi bila didatanginya air itu dia tidak mendapatinya sesuatu apapun. Dan didapatinya (ketetapan) Allah disisinya, lalu Allah memberikan kepadanya perhitungan amal-amal dengan cukup dan Allah adalah sangat cepat perhitungan-Nya.",
+                "edition": {
+                    "identifier": "id.indonesian",
+                    "language": "id",
+                    "name": "Bahasa Indonesia",
+                    "englishName": "Unknown",
+                    "type": "translation"
+                },
+                "surah": {
+                    "number": 24,
+                    "name": "\u0633\u064f\u0648\u0631\u064e\u0629\u064f \u0627\u0644\u0646\u0651\u064f\u0648\u0631\u0650",
+                    "englishName": "An-Noor",
+                    "englishNameTranslation": "The Light",
+                    "revelationType": "Medinan"
+                },
+                "numberInSurah": 39
+            },
+            {
+                "number": 2836,
+                "text": "Dan Allah telah menciptakan semua jenis hewan dari air, maka sebagian dari hewan itu ada yang berjalan di atas perutnya dan sebagian berjalan dengan dua kaki sedang sebagian (yang lain) berjalan dengan empat kaki. Allah menciptakan apa yang dikehendaki-Nya, sesungguhnya Allah Maha Kuasa atas segala sesuatu.",
+                "edition": {
+                    "identifier": "id.indonesian",
+                    "language": "id",
+                    "name": "Bahasa Indonesia",
+                    "englishName": "Unknown",
+                    "type": "translation"
+                },
+                "surah": {
+                    "number": 24,
+                    "name": "\u0633\u064f\u0648\u0631\u064e\u0629\u064f \u0627\u0644\u0646\u0651\u064f\u0648\u0631\u0650",
+                    "englishName": "An-Noor",
+                    "englishNameTranslation": "The Light",
+                    "revelationType": "Medinan"
+                },
+                "numberInSurah": 45
+            },
+            {
+                "number": 2903,
+                "text": "Dialah yang meniupkan angin (sebagai) pembawa kabar gembira dekat sebelum kedatangan rahmat-nya (hujan); dan Kami turunkan dari langit air yang amat bersih,",
+                "edition": {
+                    "identifier": "id.indonesian",
+                    "language": "id",
+                    "name": "Bahasa Indonesia",
+                    "englishName": "Unknown",
+                    "type": "translation"
+                },
+                "surah": {
+                    "number": 25,
+                    "name": "\u0633\u064f\u0648\u0631\u064e\u0629\u064f \u0627\u0644\u0641\u064f\u0631\u06e1\u0642\u064e\u0627\u0646\u0650",
+                    "englishName": "Al-Furqaan",
+                    "englishNameTranslation": "The Criterion",
+                    "revelationType": "Meccan"
+                },
+                "numberInSurah": 48
+            },
+            {
+                "number": 2904,
+                "text": "agar Kami menghidupkan dengan air itu negeri (tanah) yang mati, dan agar Kami memberi minum dengan air itu sebagian besar dari makhluk Kami, binatang-binatang ternak dan manusia yang banyak.",
+                "edition": {
+                    "identifier": "id.indonesian",
+                    "language": "id",
+                    "name": "Bahasa Indonesia",
+                    "englishName": "Unknown",
+                    "type": "translation"
+                },
+                "surah": {
+                    "number": 25,
+                    "name": "\u0633\u064f\u0648\u0631\u064e\u0629\u064f \u0627\u0644\u0641\u064f\u0631\u06e1\u0642\u064e\u0627\u0646\u0650",
+                    "englishName": "Al-Furqaan",
+                    "englishNameTranslation": "The Criterion",
+                    "revelationType": "Meccan"
+                },
+                "numberInSurah": 49
+            },
+            {
+                "number": 2909,
+                "text": "Dan Dia (pula) yang menciptakan manusia dari air lalu dia jadikan manusia itu (punya) keturunan dan mushaharah dan adalah Tuhanmu Maha Kuasa.",
+                "edition": {
+                    "identifier": "id.indonesian",
+                    "language": "id",
+                    "name": "Bahasa Indonesia",
+                    "englishName": "Unknown",
+                    "type": "translation"
+                },
+                "surah": {
+                    "number": 25,
+                    "name": "\u0633\u064f\u0648\u0631\u064e\u0629\u064f \u0627\u0644\u0641\u064f\u0631\u06e1\u0642\u064e\u0627\u0646\u0650",
+                    "englishName": "Al-Furqaan",
+                    "englishNameTranslation": "The Criterion",
+                    "revelationType": "Meccan"
+                },
+                "numberInSurah": 54
+            },
+            {
+                "number": 2989,
+                "text": "Maka Kami keluarkan Fir'aun dan kaumnya dari taman-taman dan mata air,",
+                "edition": {
+                    "identifier": "id.indonesian",
+                    "language": "id",
+                    "name": "Bahasa Indonesia",
+                    "englishName": "Unknown",
+                    "type": "translation"
+                },
+                "surah": {
+                    "number": 26,
+                    "name": "\u0633\u064f\u0648\u0631\u064e\u0629\u064f \u0627\u0644\u0634\u0651\u064f\u0639\u064e\u0631\u064e\u0627\u0621\u0650",
+                    "englishName": "Ash-Shu'araa",
+                    "englishNameTranslation": "The Poets",
+                    "revelationType": "Meccan"
+                },
+                "numberInSurah": 57
+            },
+            {
+                "number": 3066,
+                "text": "dan kebun-kebun dan mata air,",
+                "edition": {
+                    "identifier": "id.indonesian",
+                    "language": "id",
+                    "name": "Bahasa Indonesia",
+                    "englishName": "Unknown",
+                    "type": "translation"
+                },
+                "surah": {
+                    "number": 26,
+                    "name": "\u0633\u064f\u0648\u0631\u064e\u0629\u064f \u0627\u0644\u0634\u0651\u064f\u0639\u064e\u0631\u064e\u0627\u0621\u0650",
+                    "englishName": "Ash-Shu'araa",
+                    "englishNameTranslation": "The Poets",
+                    "revelationType": "Meccan"
+                },
+                "numberInSurah": 134
+            },
+            {
+                "number": 3079,
+                "text": "di dalam kebun-kebun serta mata air,",
+                "edition": {
+                    "identifier": "id.indonesian",
+                    "language": "id",
+                    "name": "Bahasa Indonesia",
+                    "englishName": "Unknown",
+                    "type": "translation"
+                },
+                "surah": {
+                    "number": 26,
+                    "name": "\u0633\u064f\u0648\u0631\u064e\u0629\u064f \u0627\u0644\u0634\u0651\u064f\u0639\u064e\u0631\u064e\u0627\u0621\u0650",
+                    "englishName": "Ash-Shu'araa",
+                    "englishNameTranslation": "The Poets",
+                    "revelationType": "Meccan"
+                },
+                "numberInSurah": 147
+            },
+            {
+                "number": 3087,
+                "text": "Shaleh menjawab: \"Ini seekor unta betina, ia mempunyai giliran untuk mendapatkan air, dan kamu mempunyai giliran pula untuk mendapatkan air di hari yang tertentu.",
+                "edition": {
+                    "identifier": "id.indonesian",
+                    "language": "id",
+                    "name": "Bahasa Indonesia",
+                    "englishName": "Unknown",
+                    "type": "translation"
+                },
+                "surah": {
+                    "number": 26,
+                    "name": "\u0633\u064f\u0648\u0631\u064e\u0629\u064f \u0627\u0644\u0634\u0651\u064f\u0639\u064e\u0631\u064e\u0627\u0621\u0650",
+                    "englishName": "Ash-Shu'araa",
+                    "englishNameTranslation": "The Poets",
+                    "revelationType": "Meccan"
+                },
+                "numberInSurah": 155
+            },
+            {
+                "number": 3156,
+                "text": "Dan penyair-penyair itu diikuti oleh orang-orang yang sesat.",
+                "edition": {
+                    "identifier": "id.indonesian",
+                    "language": "id",
+                    "name": "Bahasa Indonesia",
+                    "englishName": "Unknown",
+                    "type": "translation"
+                },
+                "surah": {
+                    "number": 26,
+                    "name": "\u0633\u064f\u0648\u0631\u064e\u0629\u064f \u0627\u0644\u0634\u0651\u064f\u0639\u064e\u0631\u064e\u0627\u0621\u0650",
+                    "englishName": "Ash-Shu'araa",
+                    "englishNameTranslation": "The Poets",
+                    "revelationType": "Meccan"
+                },
+                "numberInSurah": 224
+            },
+            {
+                "number": 3159,
+                "text": "kecuali orang-orang (penyair-penyair) yang beriman dan beramal saleh dan banyak menyebut Allah dan mendapat kemenangan sesudah menderita kezaliman. Dan orang-orang yang zalim itu kelak akan mengetahui ke tempat mana mereka akan kembali.",
+                "edition": {
+                    "identifier": "id.indonesian",
+                    "language": "id",
+                    "name": "Bahasa Indonesia",
+                    "englishName": "Unknown",
+                    "type": "translation"
+                },
+                "surah": {
+                    "number": 26,
+                    "name": "\u0633\u064f\u0648\u0631\u064e\u0629\u064f \u0627\u0644\u0634\u0651\u064f\u0639\u064e\u0631\u064e\u0627\u0621\u0650",
+                    "englishName": "Ash-Shu'araa",
+                    "englishNameTranslation": "The Poets",
+                    "revelationType": "Meccan"
+                },
+                "numberInSurah": 227
+            },
+            {
+                "number": 3203,
+                "text": "Dikatakan kepadanya: \"Masuklah ke dalam istana\". Maka tatkala dia melihat lantai istana itu, dikiranya kolam air yang besar, dan disingkapkannya kedua betisnya. Berkatalah Sulaiman: \"Sesungguhnya ia adalah istana licin terbuat dari kaca\". Berkatalah Balqis: \"Ya Tuhanku, sesungguhnya aku telah berbuat zalim terhadap diriku dan aku berserah diri bersama Sulaiman kepada Allah, Tuhan semesta alam\".",
+                "edition": {
+                    "identifier": "id.indonesian",
+                    "language": "id",
+                    "name": "Bahasa Indonesia",
+                    "englishName": "Unknown",
+                    "type": "translation"
+                },
+                "surah": {
+                    "number": 27,
+                    "name": "\u0633\u064f\u0648\u0631\u064e\u0629\u064f \u0627\u0644\u0646\u0651\u064e\u0645\u06e1\u0644\u0650",
+                    "englishName": "An-Naml",
+                    "englishNameTranslation": "The Ant",
+                    "revelationType": "Meccan"
+                },
+                "numberInSurah": 44
+            },
+            {
+                "number": 3219,
+                "text": "Atau siapakah yang telah menciptakan langit dan bumi dan yang menurunkan air untukmu dari langit, lalu Kami tumbuhkan dengan air itu kebun-kebun yang berpemandangan indah, yang kamu sekali-kali tidak mampu menumbuhkan pohon-pohonnya? Apakah disamping Allah ada tuhan (yang lain)? Bahkan (sebenarnya) mereka adalah orang-orang yang menyimpang (dari kebenaran).",
+                "edition": {
+                    "identifier": "id.indonesian",
+                    "language": "id",
+                    "name": "Bahasa Indonesia",
+                    "englishName": "Unknown",
+                    "type": "translation"
+                },
+                "surah": {
+                    "number": 27,
+                    "name": "\u0633\u064f\u0648\u0631\u064e\u0629\u064f \u0627\u0644\u0646\u0651\u064e\u0645\u06e1\u0644\u0650",
+                    "englishName": "An-Naml",
+                    "englishNameTranslation": "The Ant",
+                    "revelationType": "Meccan"
+                },
+                "numberInSurah": 60
+            },
+            {
+                "number": 3275,
+                "text": "Dan tatkala ia sampai di sumber air negeri Mad-yan ia menjumpai di sana sekumpulan orang yang sedang meminumkan (ternaknya), dan ia menjumpai di belakang orang banyak itu, dua orang wanita yang sedang menghambat (ternaknya). Musa berkata: \"Apakah maksudmu (dengan berbuat at begitu)?\" Kedua wanita itu menjawab: \"Kami tidak dapat meminumkan (ternak kami), sebelum pengembala-pengembala itu memulangkan (ternaknya), sedang bapak kami adalah orang tua yang telah lanjut umurnya\".",
+                "edition": {
+                    "identifier": "id.indonesian",
+                    "language": "id",
+                    "name": "Bahasa Indonesia",
+                    "englishName": "Unknown",
+                    "type": "translation"
+                },
+                "surah": {
+                    "number": 28,
+                    "name": "\u0633\u064f\u0648\u0631\u064e\u0629\u064f \u0627\u0644\u0642\u064e\u0635\u064e\u0635\u0650",
+                    "englishName": "Al-Qasas",
+                    "englishNameTranslation": "The Stories",
+                    "revelationType": "Meccan"
+                },
+                "numberInSurah": 23
+            },
+            {
+                "number": 3403,
+                "text": "Dan sesungguhnya jika kamu menanyakan kepada mereka: \"Siapakah yang menurunkan air dari langit lalu menghidupkan dengan air itu bumi sesudah matinya?\" Tentu mereka akan menjawab: \"Allah\", Katakanlah: \"Segala puji bagi Allah\", tetapi kebanyakan mereka tidak memahami(nya).",
+                "edition": {
+                    "identifier": "id.indonesian",
+                    "language": "id",
+                    "name": "Bahasa Indonesia",
+                    "englishName": "Unknown",
+                    "type": "translation"
+                },
+                "surah": {
+                    "number": 29,
+                    "name": "\u0633\u064f\u0648\u0631\u064e\u0629\u064f \u0627\u0644\u0639\u064e\u0646\u0643\u064e\u0628\u064f\u0648\u062a\u0650",
+                    "englishName": "Al-Ankaboot",
+                    "englishNameTranslation": "The Spider",
+                    "revelationType": "Meccan"
+                },
+                "numberInSurah": 63
+            },
+            {
+                "number": 3433,
+                "text": "Dan di antara tanda-tanda kekuasaan-Nya, Dia memperlihatkan kepadamu kilat untuk (menimbulkan) ketakutan dan harapan, dan Dia menurunkan hujan dari langit, lalu menghidupkan bumi dengan air itu sesudah matinya. Sesungguhnya pada yang demikian itu benar-benar terdapat tanda-tanda bagi kaum yang mempergunakan akalnya.",
+                "edition": {
+                    "identifier": "id.indonesian",
+                    "language": "id",
+                    "name": "Bahasa Indonesia",
+                    "englishName": "Unknown",
+                    "type": "translation"
+                },
+                "surah": {
+                    "number": 30,
+                    "name": "\u0633\u064f\u0648\u0631\u064e\u0629\u064f \u0627\u0644\u0631\u0651\u064f\u0648\u0645\u0650",
+                    "englishName": "Ar-Room",
+                    "englishNameTranslation": "The Romans",
+                    "revelationType": "Meccan"
+                },
+                "numberInSurah": 24
+            },
+            {
+                "number": 3479,
+                "text": "Dia menciptakan langit tanpa tiang yang kamu melihatnya dan Dia meletakkan gunung-gunung (di permukaan) bumi supaya bumi itu tidak menggoyangkan kamu; dan memperkembang biakkan padanya segala macam jenis binatang. Dan Kami turunkan air hujan dari langit, lalu Kami tumbuhkan padanya segala macam tumbuh-tumbuhan yang baik.",
+                "edition": {
+                    "identifier": "id.indonesian",
+                    "language": "id",
+                    "name": "Bahasa Indonesia",
+                    "englishName": "Unknown",
+                    "type": "translation"
+                },
+                "surah": {
+                    "number": 31,
+                    "name": "\u0633\u064f\u0648\u0631\u064e\u0629\u064f \u0644\u064f\u0642\u06e1\u0645\u064e\u0627\u0646\u064e",
+                    "englishName": "Luqman",
+                    "englishNameTranslation": "Luqman",
+                    "revelationType": "Meccan"
+                },
+                "numberInSurah": 10
+            },
+            {
+                "number": 3511,
+                "text": "Kemudian Dia menjadikan keturunannya dari saripati air yang hina.",
+                "edition": {
+                    "identifier": "id.indonesian",
+                    "language": "id",
+                    "name": "Bahasa Indonesia",
+                    "englishName": "Unknown",
+                    "type": "translation"
+                },
+                "surah": {
+                    "number": 32,
+                    "name": "\u0633\u064f\u0648\u0631\u064e\u0629\u064f \u0627\u0644\u0633\u0651\u064e\u062c\u06e1\u062f\u064e\u0629\u0650",
+                    "englishName": "As-Sajda",
+                    "englishNameTranslation": "The Prostration",
+                    "revelationType": "Meccan"
+                },
+                "numberInSurah": 8
+            },
+            {
+                "number": 3530,
+                "text": "Dan apakah mereka tidak memperhatikan, bahwasanya Kami menghalau (awan yang mengandung) air ke bumi yang tandus, lalu Kami tumbuhkan dengan air hujan itu tanaman yang daripadanya makan hewan ternak mereka dan mereka sendiri. Maka apakah mereka tidak memperhatikan?",
+                "edition": {
+                    "identifier": "id.indonesian",
+                    "language": "id",
+                    "name": "Bahasa Indonesia",
+                    "englishName": "Unknown",
+                    "type": "translation"
+                },
+                "surah": {
+                    "number": 32,
+                    "name": "\u0633\u064f\u0648\u0631\u064e\u0629\u064f \u0627\u0644\u0633\u0651\u064e\u062c\u06e1\u062f\u064e\u0629\u0650",
+                    "englishName": "As-Sajda",
+                    "englishNameTranslation": "The Prostration",
+                    "revelationType": "Meccan"
+                },
+                "numberInSurah": 27
+            },
+            {
+                "number": 3618,
+                "text": "Dan Kami (tundukkan) angin bagi Sulaiman, yang perjalanannya di waktu pagi sama dengan perjalanan sebulan dan perjalanannya di waktu sore sama dengan perjalanan sebulan (pula) dan Kami alirkan cairan tembaga baginya. Dan sebahagian dari jin ada yang bekerja di hadapannya (di bawah kekuasaannya) dengan izin Tuhannya. Dan siapa yang menyimpang di antara mereka dari perintah Kami, Kami rasakan kepadanya azab neraka yang apinya menyala-nyala.",
+                "edition": {
+                    "identifier": "id.indonesian",
+                    "language": "id",
+                    "name": "Bahasa Indonesia",
+                    "englishName": "Unknown",
+                    "type": "translation"
+                },
+                "surah": {
+                    "number": 34,
+                    "name": "\u0633\u064f\u0648\u0631\u064e\u0629\u064f \u0633\u064e\u0628\u064e\u0625\u064d",
+                    "englishName": "Saba",
+                    "englishNameTranslation": "Sheba",
+                    "revelationType": "Meccan"
+                },
+                "numberInSurah": 12
+            },
+            {
+                "number": 3671,
+                "text": "Dan Allah menciptakan kamu dari tanah kemudian dari air mani, kemudian Dia menjadikan kamu berpasangan (laki-laki dan perempuan). Dan tidak ada seorang perempuanpun mengandung dan tidak (pula) melahirkan melainkan dengan sepengetahuan-Nya. Dan sekali-kali tidak dipanjangkan umur seorang yang berumur panjang dan tidak pula dikurangi umurnya, melainkan (sudah ditetapkan) dalam Kitab (Lauh Mahfuzh). Sesungguhnya yang demikian itu bagi Allah adalah mudah.",
+                "edition": {
+                    "identifier": "id.indonesian",
+                    "language": "id",
+                    "name": "Bahasa Indonesia",
+                    "englishName": "Unknown",
+                    "type": "translation"
+                },
+                "surah": {
+                    "number": 35,
+                    "name": "\u0633\u064f\u0648\u0631\u064e\u0629\u064f \u0641\u064e\u0627\u0637\u0650\u0631\u064d",
+                    "englishName": "Faatir",
+                    "englishNameTranslation": "The Originator",
+                    "revelationType": "Meccan"
+                },
+                "numberInSurah": 11
+            },
+            {
+                "number": 3739,
+                "text": "Dan Kami jadikan padanya kebun-kebun kurma dan anggur dan Kami pancarkan padanya beberapa mata air,",
+                "edition": {
+                    "identifier": "id.indonesian",
+                    "language": "id",
+                    "name": "Bahasa Indonesia",
+                    "englishName": "Unknown",
+                    "type": "translation"
+                },
+                "surah": {
+                    "number": 36,
+                    "name": "\u0633\u064f\u0648\u0631\u064e\u0629\u064f \u064a\u0633\u0653",
+                    "englishName": "Yaseen",
+                    "englishNameTranslation": "Yaseen",
+                    "revelationType": "Meccan"
+                },
+                "numberInSurah": 34
+            },
+            {
+                "number": 3774,
+                "text": "Dan Kami tidak mengajarkan syair kepadanya (Muhammad) dan bersyair itu tidaklah layak baginya. Al Quran itu tidak lain hanyalah pelajaran dan kitab yang memberi penerangan.",
+                "edition": {
+                    "identifier": "id.indonesian",
+                    "language": "id",
+                    "name": "Bahasa Indonesia",
+                    "englishName": "Unknown",
+                    "type": "translation"
+                },
+                "surah": {
+                    "number": 36,
+                    "name": "\u0633\u064f\u0648\u0631\u064e\u0629\u064f \u064a\u0633\u0653",
+                    "englishName": "Yaseen",
+                    "englishNameTranslation": "Yaseen",
+                    "revelationType": "Meccan"
+                },
+                "numberInSurah": 69
+            },
+            {
+                "number": 3782,
+                "text": "Dan apakah manusia tidak memperhatikan bahwa Kami menciptakannya dari setitik air (mani), maka tiba-tiba ia menjadi penantang yang nyata!",
+                "edition": {
+                    "identifier": "id.indonesian",
+                    "language": "id",
+                    "name": "Bahasa Indonesia",
+                    "englishName": "Unknown",
+                    "type": "translation"
+                },
+                "surah": {
+                    "number": 36,
+                    "name": "\u0633\u064f\u0648\u0631\u064e\u0629\u064f \u064a\u0633\u0653",
+                    "englishName": "Yaseen",
+                    "englishNameTranslation": "Yaseen",
+                    "revelationType": "Meccan"
+                },
+                "numberInSurah": 77
+            },
+            {
+                "number": 3824,
+                "text": "dan mereka berkata: \"Apakah sesungguhnya kami harus meninggalkan sembahan-sembahan kami karena seorang penyair gila?\"",
+                "edition": {
+                    "identifier": "id.indonesian",
+                    "language": "id",
+                    "name": "Bahasa Indonesia",
+                    "englishName": "Unknown",
+                    "type": "translation"
+                },
+                "surah": {
+                    "number": 37,
+                    "name": "\u0633\u064f\u0648\u0631\u064e\u0629\u064f \u0627\u0644\u0635\u0651\u064e\u0627\u0641\u0651\u064e\u0627\u062a\u0650",
+                    "englishName": "As-Saaffaat",
+                    "englishNameTranslation": "Those drawn up in Ranks",
+                    "revelationType": "Meccan"
+                },
+                "numberInSurah": 36
+            },
+            {
+                "number": 3855,
+                "text": "Kemudian sesudah makan buah pohon zaqqum itu pasti mereka mendapat minuman yang bercampur dengan air yang sangat panas.",
+                "edition": {
+                    "identifier": "id.indonesian",
+                    "language": "id",
+                    "name": "Bahasa Indonesia",
+                    "englishName": "Unknown",
+                    "type": "translation"
+                },
+                "surah": {
+                    "number": 37,
+                    "name": "\u0633\u064f\u0648\u0631\u064e\u0629\u064f \u0627\u0644\u0635\u0651\u064e\u0627\u0641\u0651\u064e\u0627\u062a\u0650",
+                    "englishName": "As-Saaffaat",
+                    "englishNameTranslation": "Those drawn up in Ranks",
+                    "revelationType": "Meccan"
+                },
+                "numberInSurah": 67
+            },
+            {
+                "number": 4012,
+                "text": "(Allah berfirman): \"Hantamkanlah kakimu; inilah air yang sejuk untuk mandi dan untuk minum\".",
+                "edition": {
+                    "identifier": "id.indonesian",
+                    "language": "id",
+                    "name": "Bahasa Indonesia",
+                    "englishName": "Unknown",
+                    "type": "translation"
+                },
+                "surah": {
+                    "number": 38,
+                    "name": "\u0633\u064f\u0648\u0631\u064e\u0629\u064f \u0635\u0653",
+                    "englishName": "Saad",
+                    "englishNameTranslation": "The letter Saad",
+                    "revelationType": "Meccan"
+                },
+                "numberInSurah": 42
+            },
+            {
+                "number": 4027,
+                "text": "Inilah (azab neraka), biarlah mereka merasakannya, (minuman mereka) air yang sangat panas dan air yang sangat dingin.",
+                "edition": {
+                    "identifier": "id.indonesian",
+                    "language": "id",
+                    "name": "Bahasa Indonesia",
+                    "englishName": "Unknown",
+                    "type": "translation"
+                },
+                "surah": {
+                    "number": 38,
+                    "name": "\u0633\u064f\u0648\u0631\u064e\u0629\u064f \u0635\u0653",
+                    "englishName": "Saad",
+                    "englishNameTranslation": "The letter Saad",
+                    "revelationType": "Meccan"
+                },
+                "numberInSurah": 57
+            },
+            {
+                "number": 4079,
+                "text": "Apakah kamu tidak memperhatikan, bahwa sesungguhnya Allah menurunkan air dari langit, maka diaturnya menjadi sumber-sumber air di bumi kemudian ditumbuhkan-Nya dengan air itu tanam-tanaman yang bermacam-macam warnanya, lalu menjadi kering lalu kamu melihatnya kekuning-kuningan, kemudian dijadikan-Nya hancur berderai-derai. Sesungguhnya pada yang demikian itu benar-benar terdapat pelajaran bagi orang-orang yang mempunyai akal.",
+                "edition": {
+                    "identifier": "id.indonesian",
+                    "language": "id",
+                    "name": "Bahasa Indonesia",
+                    "englishName": "Unknown",
+                    "type": "translation"
+                },
+                "surah": {
+                    "number": 39,
+                    "name": "\u0633\u064f\u0648\u0631\u064e\u0629\u064f \u0627\u0644\u0632\u0651\u064f\u0645\u064e\u0631\u0650",
+                    "englishName": "Az-Zumar",
+                    "englishNameTranslation": "The Groups",
+                    "revelationType": "Meccan"
+                },
+                "numberInSurah": 21
+            },
+            {
+                "number": 4205,
+                "text": "ke dalam air yang sangat panas, kemudian mereka dibakar dalam api,",
+                "edition": {
+                    "identifier": "id.indonesian",
+                    "language": "id",
+                    "name": "Bahasa Indonesia",
+                    "englishName": "Unknown",
+                    "type": "translation"
+                },
+                "surah": {
+                    "number": 40,
+                    "name": "\u0633\u064f\u0648\u0631\u064e\u0629\u064f \u063a\u064e\u0627\u0641\u0650\u0631\u064d",
+                    "englishName": "Ghafir",
+                    "englishNameTranslation": "The Forgiver",
+                    "revelationType": "Meccan"
+                },
+                "numberInSurah": 72
+            },
+            {
+                "number": 4257,
+                "text": "Dan di antara tanda-tanda-Nya (Ialah) bahwa kau lihat bumi kering dan gersang, maka apabila Kami turunkan air di atasnya, niscaya ia bergerak dan subur. Sesungguhnya Tuhan Yang menghidupkannya, Pastilah dapat menghidupkan yang mati. Sesungguhnya Dia Maha Kuasa atas segala sesuatu.",
+                "edition": {
+                    "identifier": "id.indonesian",
+                    "language": "id",
+                    "name": "Bahasa Indonesia",
+                    "englishName": "Unknown",
+                    "type": "translation"
+                },
+                "surah": {
+                    "number": 41,
+                    "name": "\u0633\u064f\u0648\u0631\u064e\u0629\u064f \u0641\u064f\u0635\u0651\u0650\u0644\u064e\u062a\u06e1",
+                    "englishName": "Fussilat",
+                    "englishNameTranslation": "Explained in detail",
+                    "revelationType": "Meccan"
+                },
+                "numberInSurah": 39
+            },
+            {
+                "number": 4336,
+                "text": "Dan Yang menurunkan air dari langit menurut kadar (yang diperlukan) lalu Kami hidupkan dengan air itu negeri yang mati, seperti itulah kamu akan dikeluarkan (dari dalam kubur).",
+                "edition": {
+                    "identifier": "id.indonesian",
+                    "language": "id",
+                    "name": "Bahasa Indonesia",
+                    "englishName": "Unknown",
+                    "type": "translation"
+                },
+                "surah": {
+                    "number": 43,
+                    "name": "\u0633\u064f\u0648\u0631\u064e\u0629\u064f \u0627\u0644\u0632\u0651\u064f\u062e\u06e1\u0631\u064f\u0641\u0650",
+                    "englishName": "Az-Zukhruf",
+                    "englishNameTranslation": "Ornaments of gold",
+                    "revelationType": "Meccan"
+                },
+                "numberInSurah": 11
+            },
+            {
+                "number": 4439,
+                "text": "Alangkah banyaknya taman dan mata air yang mereka tinggalkan,",
+                "edition": {
+                    "identifier": "id.indonesian",
+                    "language": "id",
+                    "name": "Bahasa Indonesia",
+                    "englishName": "Unknown",
+                    "type": "translation"
+                },
+                "surah": {
+                    "number": 44,
+                    "name": "\u0633\u064f\u0648\u0631\u064e\u0629\u064f \u0627\u0644\u062f\u0651\u064f\u062e\u064e\u0627\u0646\u0650",
+                    "englishName": "Ad-Dukhaan",
+                    "englishNameTranslation": "The Smoke",
+                    "revelationType": "Meccan"
+                },
+                "numberInSurah": 25
+            },
+            {
+                "number": 4460,
+                "text": "seperti mendidihnya air yang amat panas.",
+                "edition": {
+                    "identifier": "id.indonesian",
+                    "language": "id",
+                    "name": "Bahasa Indonesia",
+                    "englishName": "Unknown",
+                    "type": "translation"
+                },
+                "surah": {
+                    "number": 44,
+                    "name": "\u0633\u064f\u0648\u0631\u064e\u0629\u064f \u0627\u0644\u062f\u0651\u064f\u062e\u064e\u0627\u0646\u0650",
+                    "englishName": "Ad-Dukhaan",
+                    "englishNameTranslation": "The Smoke",
+                    "revelationType": "Meccan"
+                },
+                "numberInSurah": 46
+            },
+            {
+                "number": 4462,
+                "text": "Kemudian tuangkanlah di atas kepalanya siksaan (dari) air yang amat panas.",
+                "edition": {
+                    "identifier": "id.indonesian",
+                    "language": "id",
+                    "name": "Bahasa Indonesia",
+                    "englishName": "Unknown",
+                    "type": "translation"
+                },
+                "surah": {
+                    "number": 44,
+                    "name": "\u0633\u064f\u0648\u0631\u064e\u0629\u064f \u0627\u0644\u062f\u0651\u064f\u062e\u064e\u0627\u0646\u0650",
+                    "englishName": "Ad-Dukhaan",
+                    "englishNameTranslation": "The Smoke",
+                    "revelationType": "Meccan"
+                },
+                "numberInSurah": 48
+            },
+            {
+                "number": 4466,
+                "text": "(yaitu) di dalam taman-taman dan mata-air-mata-air;",
+                "edition": {
+                    "identifier": "id.indonesian",
+                    "language": "id",
+                    "name": "Bahasa Indonesia",
+                    "englishName": "Unknown",
+                    "type": "translation"
+                },
+                "surah": {
+                    "number": 44,
+                    "name": "\u0633\u064f\u0648\u0631\u064e\u0629\u064f \u0627\u0644\u062f\u0651\u064f\u062e\u064e\u0627\u0646\u0650",
+                    "englishName": "Ad-Dukhaan",
+                    "englishNameTranslation": "The Smoke",
+                    "revelationType": "Meccan"
+                },
+                "numberInSurah": 52
+            },
+            {
+                "number": 4478,
+                "text": "dan pada pergantian malam dan siang dan hujan yang diturunkan Allah dari langit lalu dihidupkan-Nya dengan air hujan itu bumi sesudah matinya; dan pada perkisaran angin terdapat tanda-tanda (kekuasaan Allah) bagi kaum yang berakal.",
+                "edition": {
+                    "identifier": "id.indonesian",
+                    "language": "id",
+                    "name": "Bahasa Indonesia",
+                    "englishName": "Unknown",
+                    "type": "translation"
+                },
+                "surah": {
+                    "number": 45,
+                    "name": "\u0633\u064f\u0648\u0631\u064e\u0629\u064f \u0627\u0644\u062c\u064e\u0627\u062b\u0650\u064a\u064e\u0629\u0650",
+                    "englishName": "Al-Jaathiya",
+                    "englishNameTranslation": "Crouching",
+                    "revelationType": "Meccan"
+                },
+                "numberInSurah": 5
+            },
+            {
+                "number": 4560,
+                "text": "(Apakah) perumpamaan (penghuni) jannah yang dijanjikan kepada orang-orang yang bertakwa yang di dalamnya ada sungai-sungai dari air yang tiada berubah rasa dan baunya, sungai-sungai dari air susu yang tidak berubah rasanya, sungai-sungai dari khamar yang lezat rasanya bagi peminumnya dan sungai-sungai dari madu yang disaring; dan mereka memperoleh di dalamnya segala macam buah-buahan dan ampunan dari Rabb mereka, sama dengan orang yang kekal dalam jahannam dan diberi minuman dengan air yang mendidih sehingga memotong ususnya?",
+                "edition": {
+                    "identifier": "id.indonesian",
+                    "language": "id",
+                    "name": "Bahasa Indonesia",
+                    "englishName": "Unknown",
+                    "type": "translation"
+                },
+                "surah": {
+                    "number": 47,
+                    "name": "\u0633\u064f\u0648\u0631\u064e\u0629\u064f \u0645\u064f\u062d\u064e\u0645\u0651\u064e\u062f\u064d",
+                    "englishName": "Muhammad",
+                    "englishNameTranslation": "Muhammad",
+                    "revelationType": "Medinan"
+                },
+                "numberInSurah": 15
+            },
+            {
+                "number": 4639,
+                "text": "Dan Kami turunkan dari langit air yang banyak manfaatnya lalu Kami tumbuhkan dengan air itu pohon-pohon dan biji-biji tanaman yang diketam,",
+                "edition": {
+                    "identifier": "id.indonesian",
+                    "language": "id",
+                    "name": "Bahasa Indonesia",
+                    "englishName": "Unknown",
+                    "type": "translation"
+                },
+                "surah": {
+                    "number": 50,
+                    "name": "\u0633\u064f\u0648\u0631\u064e\u0629\u064f \u0642\u0653",
+                    "englishName": "Qaaf",
+                    "englishNameTranslation": "The letter Qaaf",
+                    "revelationType": "Meccan"
+                },
+                "numberInSurah": 9
+            },
+            {
+                "number": 4641,
+                "text": "untuk menjadi rezeki bagi hamba-hamba (Kami), dan Kami hidupkan dengan air itu tanah yang mati (kering). Seperti itulah terjadinya kebangkitan.",
+                "edition": {
+                    "identifier": "id.indonesian",
+                    "language": "id",
+                    "name": "Bahasa Indonesia",
+                    "englishName": "Unknown",
+                    "type": "translation"
+                },
+                "surah": {
+                    "number": 50,
+                    "name": "\u0633\u064f\u0648\u0631\u064e\u0629\u064f \u0642\u0653",
+                    "englishName": "Qaaf",
+                    "englishNameTranslation": "The letter Qaaf",
+                    "revelationType": "Meccan"
+                },
+                "numberInSurah": 11
+            },
+            {
+                "number": 4690,
+                "text": "Sesungguhnya orang-orang yang bertakwa itu berada dalam taman-taman (surga) dan mata air-mata air,",
+                "edition": {
+                    "identifier": "id.indonesian",
+                    "language": "id",
+                    "name": "Bahasa Indonesia",
+                    "englishName": "Unknown",
+                    "type": "translation"
+                },
+                "surah": {
+                    "number": 51,
+                    "name": "\u0633\u064f\u0648\u0631\u064e\u0629\u064f \u0627\u0644\u0630\u0651\u064e\u0627\u0631\u0650\u064a\u064e\u0627\u062a\u0650",
+                    "englishName": "Adh-Dhaariyat",
+                    "englishNameTranslation": "The Winnowing Winds",
+                    "revelationType": "Meccan"
+                },
+                "numberInSurah": 15
+            },
+            {
+                "number": 4765,
+                "text": "Bahkan mereka mengatakan: \"Dia adalah seorang penyair yang kami tunggu-tunggu kecelakaan menimpanya\".",
+                "edition": {
+                    "identifier": "id.indonesian",
+                    "language": "id",
+                    "name": "Bahasa Indonesia",
+                    "englishName": "Unknown",
+                    "type": "translation"
+                },
+                "surah": {
+                    "number": 52,
+                    "name": "\u0633\u064f\u0648\u0631\u064e\u0629\u064f \u0627\u0644\u0637\u0651\u064f\u0648\u0631\u0650",
+                    "englishName": "At-Tur",
+                    "englishNameTranslation": "The Mount",
+                    "revelationType": "Meccan"
+                },
+                "numberInSurah": 30
+            },
+            {
+                "number": 4830,
+                "text": "dari air mani, apabila dipancarkan.",
+                "edition": {
+                    "identifier": "id.indonesian",
+                    "language": "id",
+                    "name": "Bahasa Indonesia",
+                    "englishName": "Unknown",
+                    "type": "translation"
+                },
+                "surah": {
+                    "number": 53,
+                    "name": "\u0633\u064f\u0648\u0631\u064e\u0629\u064f \u0627\u0644\u0646\u0651\u064e\u062c\u06e1\u0645\u0650",
+                    "englishName": "An-Najm",
+                    "englishNameTranslation": "The Star",
+                    "revelationType": "Meccan"
+                },
+                "numberInSurah": 46
+            },
+            {
+                "number": 4857,
+                "text": "Maka Kami bukakan pintu-pintu langit dengan (menurunkan) air yang tercurah.",
+                "edition": {
+                    "identifier": "id.indonesian",
+                    "language": "id",
+                    "name": "Bahasa Indonesia",
+                    "englishName": "Unknown",
+                    "type": "translation"
+                },
+                "surah": {
+                    "number": 54,
+                    "name": "\u0633\u064f\u0648\u0631\u064e\u0629\u064f \u0627\u0644\u0642\u064e\u0645\u064e\u0631\u0650",
+                    "englishName": "Al-Qamar",
+                    "englishNameTranslation": "The Moon",
+                    "revelationType": "Meccan"
+                },
+                "numberInSurah": 11
+            },
+            {
+                "number": 4858,
+                "text": "Dan Kami jadikan bumi memancarkan mata air-mata air, maka bertemulah air-air itu untuk suatu urusan yang sungguh telah ditetapkan.",
+                "edition": {
+                    "identifier": "id.indonesian",
+                    "language": "id",
+                    "name": "Bahasa Indonesia",
+                    "englishName": "Unknown",
+                    "type": "translation"
+                },
+                "surah": {
+                    "number": 54,
+                    "name": "\u0633\u064f\u0648\u0631\u064e\u0629\u064f \u0627\u0644\u0642\u064e\u0645\u064e\u0631\u0650",
+                    "englishName": "Al-Qamar",
+                    "englishNameTranslation": "The Moon",
+                    "revelationType": "Meccan"
+                },
+                "numberInSurah": 12
+            },
+            {
+                "number": 4874,
+                "text": "Dan beritakanlah kepada mereka bahwa sesungguhnya air itu terbagi antara mereka (dengan unta betina itu); tiap-tiap giliran minum dihadiri (oleh yang punya giliran)",
+                "edition": {
+                    "identifier": "id.indonesian",
+                    "language": "id",
+                    "name": "Bahasa Indonesia",
+                    "englishName": "Unknown",
+                    "type": "translation"
+                },
+                "surah": {
+                    "number": 54,
+                    "name": "\u0633\u064f\u0648\u0631\u064e\u0629\u064f \u0627\u0644\u0642\u064e\u0645\u064e\u0631\u0650",
+                    "englishName": "Al-Qamar",
+                    "englishNameTranslation": "The Moon",
+                    "revelationType": "Meccan"
+                },
+                "numberInSurah": 28
+            },
+            {
+                "number": 4936,
+                "text": "Kepada kamu, (jin dan manusia) dilepaskan nyala api dan cairan tembaga maka kamu tidak dapat menyelamatkan diri (dari padanya).",
+                "edition": {
+                    "identifier": "id.indonesian",
+                    "language": "id",
+                    "name": "Bahasa Indonesia",
+                    "englishName": "Unknown",
+                    "type": "translation"
+                },
+                "surah": {
+                    "number": 55,
+                    "name": "\u0633\u064f\u0648\u0631\u064e\u0629\u064f \u0627\u0644\u0631\u0651\u064e\u062d\u06e1\u0645\u064e\u0670\u0646",
+                    "englishName": "Ar-Rahmaan",
+                    "englishNameTranslation": "The Beneficent",
+                    "revelationType": "Medinan"
+                },
+                "numberInSurah": 35
+            },
+            {
+                "number": 4945,
+                "text": "Mereka berkeliling di antaranya dan di antara air mendidih yang memuncak panasnya.",
+                "edition": {
+                    "identifier": "id.indonesian",
+                    "language": "id",
+                    "name": "Bahasa Indonesia",
+                    "englishName": "Unknown",
+                    "type": "translation"
+                },
+                "surah": {
+                    "number": 55,
+                    "name": "\u0633\u064f\u0648\u0631\u064e\u0629\u064f \u0627\u0644\u0631\u0651\u064e\u062d\u06e1\u0645\u064e\u0670\u0646",
+                    "englishName": "Ar-Rahmaan",
+                    "englishNameTranslation": "The Beneficent",
+                    "revelationType": "Medinan"
+                },
+                "numberInSurah": 44
+            },
+            {
+                "number": 4951,
+                "text": "Di dalam kedua surga itu ada dua buah mata air yang mengalir",
+                "edition": {
+                    "identifier": "id.indonesian",
+                    "language": "id",
+                    "name": "Bahasa Indonesia",
+                    "englishName": "Unknown",
+                    "type": "translation"
+                },
+                "surah": {
+                    "number": 55,
+                    "name": "\u0633\u064f\u0648\u0631\u064e\u0629\u064f \u0627\u0644\u0631\u0651\u064e\u062d\u06e1\u0645\u064e\u0670\u0646",
+                    "englishName": "Ar-Rahmaan",
+                    "englishNameTranslation": "The Beneficent",
+                    "revelationType": "Medinan"
+                },
+                "numberInSurah": 50
+            },
+            {
+                "number": 4967,
+                "text": "Di dalam kedua surga itu ada dua buah mata air yang memancar.",
+                "edition": {
+                    "identifier": "id.indonesian",
+                    "language": "id",
+                    "name": "Bahasa Indonesia",
+                    "englishName": "Unknown",
+                    "type": "translation"
+                },
+                "surah": {
+                    "number": 55,
+                    "name": "\u0633\u064f\u0648\u0631\u064e\u0629\u064f \u0627\u0644\u0631\u0651\u064e\u062d\u06e1\u0645\u064e\u0670\u0646",
+                    "englishName": "Ar-Rahmaan",
+                    "englishNameTranslation": "The Beneficent",
+                    "revelationType": "Medinan"
+                },
+                "numberInSurah": 66
+            },
+            {
+                "number": 4997,
+                "text": "dengan membawa gelas, cerek dan minuman yang diambil dari air yang mengalir,",
+                "edition": {
+                    "identifier": "id.indonesian",
+                    "language": "id",
+                    "name": "Bahasa Indonesia",
+                    "englishName": "Unknown",
+                    "type": "translation"
+                },
+                "surah": {
+                    "number": 56,
+                    "name": "\u0633\u064f\u0648\u0631\u064e\u0629\u064f \u0627\u0644\u0648\u064e\u0627\u0642\u0650\u0639\u064e\u0629\u0650",
+                    "englishName": "Al-Waaqia",
+                    "englishNameTranslation": "The Inevitable",
+                    "revelationType": "Meccan"
+                },
+                "numberInSurah": 18
+            },
+            {
+                "number": 5010,
+                "text": "dan air yang tercurah,",
+                "edition": {
+                    "identifier": "id.indonesian",
+                    "language": "id",
+                    "name": "Bahasa Indonesia",
+                    "englishName": "Unknown",
+                    "type": "translation"
+                },
+                "surah": {
+                    "number": 56,
+                    "name": "\u0633\u064f\u0648\u0631\u064e\u0629\u064f \u0627\u0644\u0648\u064e\u0627\u0642\u0650\u0639\u064e\u0629\u0650",
+                    "englishName": "Al-Waaqia",
+                    "englishNameTranslation": "The Inevitable",
+                    "revelationType": "Meccan"
+                },
+                "numberInSurah": 31
+            },
+            {
+                "number": 5021,
+                "text": "Dalam (siksaan) angin yang amat panas, dan air panas yang mendidih,",
+                "edition": {
+                    "identifier": "id.indonesian",
+                    "language": "id",
+                    "name": "Bahasa Indonesia",
+                    "englishName": "Unknown",
+                    "type": "translation"
+                },
+                "surah": {
+                    "number": 56,
+                    "name": "\u0633\u064f\u0648\u0631\u064e\u0629\u064f \u0627\u0644\u0648\u064e\u0627\u0642\u0650\u0639\u064e\u0629\u0650",
+                    "englishName": "Al-Waaqia",
+                    "englishNameTranslation": "The Inevitable",
+                    "revelationType": "Meccan"
+                },
+                "numberInSurah": 42
+            },
+            {
+                "number": 5033,
+                "text": "Sesudah itu kamu akan meminum air yang sangat panas.",
+                "edition": {
+                    "identifier": "id.indonesian",
+                    "language": "id",
+                    "name": "Bahasa Indonesia",
+                    "englishName": "Unknown",
+                    "type": "translation"
+                },
+                "surah": {
+                    "number": 56,
+                    "name": "\u0633\u064f\u0648\u0631\u064e\u0629\u064f \u0627\u0644\u0648\u064e\u0627\u0642\u0650\u0639\u064e\u0629\u0650",
+                    "englishName": "Al-Waaqia",
+                    "englishNameTranslation": "The Inevitable",
+                    "revelationType": "Meccan"
+                },
+                "numberInSurah": 54
+            },
+            {
+                "number": 5047,
+                "text": "Maka terangkanlah kepadaku tentang air yang kamu minum.",
+                "edition": {
+                    "identifier": "id.indonesian",
+                    "language": "id",
+                    "name": "Bahasa Indonesia",
+                    "englishName": "Unknown",
+                    "type": "translation"
+                },
+                "surah": {
+                    "number": 56,
+                    "name": "\u0633\u064f\u0648\u0631\u064e\u0629\u064f \u0627\u0644\u0648\u064e\u0627\u0642\u0650\u0639\u064e\u0629\u0650",
+                    "englishName": "Al-Waaqia",
+                    "englishNameTranslation": "The Inevitable",
+                    "revelationType": "Meccan"
+                },
+                "numberInSurah": 68
+            },
+            {
+                "number": 5072,
+                "text": "maka dia mendapat hidangan air yang mendidih,",
+                "edition": {
+                    "identifier": "id.indonesian",
+                    "language": "id",
+                    "name": "Bahasa Indonesia",
+                    "englishName": "Unknown",
+                    "type": "translation"
+                },
+                "surah": {
+                    "number": 56,
+                    "name": "\u0633\u064f\u0648\u0631\u064e\u0629\u064f \u0627\u0644\u0648\u064e\u0627\u0642\u0650\u0639\u064e\u0629\u0650",
+                    "englishName": "Al-Waaqia",
+                    "englishNameTranslation": "The Inevitable",
+                    "revelationType": "Meccan"
+                },
+                "numberInSurah": 93
+            },
+            {
+                "number": 5271,
+                "text": "Katakanlah: \"Terangkanlah kepadaku jika sumber air kamu menjadi kering; maka siapakah yang akan mendatangkan air yang mengalir bagimu?\".",
+                "edition": {
+                    "identifier": "id.indonesian",
+                    "language": "id",
+                    "name": "Bahasa Indonesia",
+                    "englishName": "Unknown",
+                    "type": "translation"
+                },
+                "surah": {
+                    "number": 67,
+                    "name": "\u0633\u064f\u0648\u0631\u064e\u0629\u064f \u0627\u0644\u0645\u064f\u0644\u06e1\u0643\u0650",
+                    "englishName": "Al-Mulk",
+                    "englishNameTranslation": "The Sovereignty",
+                    "revelationType": "Meccan"
+                },
+                "numberInSurah": 30
+            },
+            {
+                "number": 5334,
+                "text": "Sesungguhnya Kami, tatkala air telah naik (sampai ke gunung) Kami bawa (nenek moyang) kamu, ke dalam bahtera,",
+                "edition": {
+                    "identifier": "id.indonesian",
+                    "language": "id",
+                    "name": "Bahasa Indonesia",
+                    "englishName": "Unknown",
+                    "type": "translation"
+                },
+                "surah": {
+                    "number": 69,
+                    "name": "\u0633\u064f\u0648\u0631\u064e\u0629\u064f \u0627\u0644\u062d\u064e\u0627\u0642\u0651\u064e\u0629\u0650",
+                    "englishName": "Al-Haaqqa",
+                    "englishNameTranslation": "The Reality",
+                    "revelationType": "Meccan"
+                },
+                "numberInSurah": 11
+            },
+            {
+                "number": 5364,
+                "text": "dan Al Quran itu bukanlah perkataan seorang penyair. Sedikit sekali kamu beriman kepadanya.",
+                "edition": {
+                    "identifier": "id.indonesian",
+                    "language": "id",
+                    "name": "Bahasa Indonesia",
+                    "englishName": "Unknown",
+                    "type": "translation"
+                },
+                "surah": {
+                    "number": 69,
+                    "name": "\u0633\u064f\u0648\u0631\u064e\u0629\u064f \u0627\u0644\u062d\u064e\u0627\u0642\u0651\u064e\u0629\u0650",
+                    "englishName": "Al-Haaqqa",
+                    "englishNameTranslation": "The Reality",
+                    "revelationType": "Meccan"
+                },
+                "numberInSurah": 41
+            },
+            {
+                "number": 5414,
+                "text": "sekali-kali tidak! Sesungguhnya Kami ciptakan mereka dari apa yang mereka ketahui (air mani).",
+                "edition": {
+                    "identifier": "id.indonesian",
+                    "language": "id",
+                    "name": "Bahasa Indonesia",
+                    "englishName": "Unknown",
+                    "type": "translation"
+                },
+                "surah": {
+                    "number": 70,
+                    "name": "\u0633\u064f\u0648\u0631\u064e\u0629\u064f \u0627\u0644\u0645\u064e\u0639\u064e\u0627\u0631\u0650\u062c\u0650",
+                    "englishName": "Al-Ma'aarij",
+                    "englishNameTranslation": "The Ascending Stairways",
+                    "revelationType": "Meccan"
+                },
+                "numberInSurah": 39
+            },
+            {
+                "number": 5463,
+                "text": "Dan bahwasanya: jikalau mereka tetap berjalan lurus di atas jalan itu (agama Islam), benar-benar Kami akan memberi minum kepada mereka air yang segar (rezeki yang banyak).",
+                "edition": {
+                    "identifier": "id.indonesian",
+                    "language": "id",
+                    "name": "Bahasa Indonesia",
+                    "englishName": "Unknown",
+                    "type": "translation"
+                },
+                "surah": {
+                    "number": 72,
+                    "name": "\u0633\u064f\u0648\u0631\u064e\u0629\u064f \u0627\u0644\u062c\u0650\u0646\u0651\u0650",
+                    "englishName": "Al-Jinn",
+                    "englishNameTranslation": "The Jinn",
+                    "revelationType": "Meccan"
+                },
+                "numberInSurah": 16
+            },
+            {
+                "number": 5596,
+                "text": "Sesungguhnya orang-orang yang berbuat kebajikan minum dari gelas (berisi minuman) yang campurannya adalah air kafur,",
+                "edition": {
+                    "identifier": "id.indonesian",
+                    "language": "id",
+                    "name": "Bahasa Indonesia",
+                    "englishName": "Unknown",
+                    "type": "translation"
+                },
+                "surah": {
+                    "number": 76,
+                    "name": "\u0633\u064f\u0648\u0631\u064e\u0629\u064f \u0627\u0644\u0625\u0650\u0646\u0633\u064e\u0627\u0646\u0650",
+                    "englishName": "Al-Insaan",
+                    "englishNameTranslation": "Man",
+                    "revelationType": "Medinan"
+                },
+                "numberInSurah": 5
+            },
+            {
+                "number": 5597,
+                "text": "(yaitu) mata air (dalam surga) yang daripadanya hamba-hamba Allah minum, yang mereka dapat mengalirkannya dengan sebaik-baiknya.",
+                "edition": {
+                    "identifier": "id.indonesian",
+                    "language": "id",
+                    "name": "Bahasa Indonesia",
+                    "englishName": "Unknown",
+                    "type": "translation"
+                },
+                "surah": {
+                    "number": 76,
+                    "name": "\u0633\u064f\u0648\u0631\u064e\u0629\u064f \u0627\u0644\u0625\u0650\u0646\u0633\u064e\u0627\u0646\u0650",
+                    "englishName": "Al-Insaan",
+                    "englishNameTranslation": "Man",
+                    "revelationType": "Medinan"
+                },
+                "numberInSurah": 6
+            },
+            {
+                "number": 5609,
+                "text": "(Yang didatangkan dari) sebuah mata air surga yang dinamakan salsabil.",
+                "edition": {
+                    "identifier": "id.indonesian",
+                    "language": "id",
+                    "name": "Bahasa Indonesia",
+                    "englishName": "Unknown",
+                    "type": "translation"
+                },
+                "surah": {
+                    "number": 76,
+                    "name": "\u0633\u064f\u0648\u0631\u064e\u0629\u064f \u0627\u0644\u0625\u0650\u0646\u0633\u064e\u0627\u0646\u0650",
+                    "englishName": "Al-Insaan",
+                    "englishNameTranslation": "Man",
+                    "revelationType": "Medinan"
+                },
+                "numberInSurah": 18
+            },
+            {
+                "number": 5642,
+                "text": "Bukankah Kami menciptakan kamu dari air yang hina?",
+                "edition": {
+                    "identifier": "id.indonesian",
+                    "language": "id",
+                    "name": "Bahasa Indonesia",
+                    "englishName": "Unknown",
+                    "type": "translation"
+                },
+                "surah": {
+                    "number": 77,
+                    "name": "\u0633\u064f\u0648\u0631\u064e\u0629\u064f \u0627\u0644\u0645\u064f\u0631\u06e1\u0633\u064e\u0644\u064e\u0627\u062a\u0650",
+                    "englishName": "Al-Mursalaat",
+                    "englishNameTranslation": "The Emissaries",
+                    "revelationType": "Meccan"
+                },
+                "numberInSurah": 20
+            },
+            {
+                "number": 5649,
+                "text": "dan Kami jadikan padanya gunung-gunung yang tinggi, dan Kami beri minum kamu dengan air tawar?",
+                "edition": {
+                    "identifier": "id.indonesian",
+                    "language": "id",
+                    "name": "Bahasa Indonesia",
+                    "englishName": "Unknown",
+                    "type": "translation"
+                },
+                "surah": {
+                    "number": 77,
+                    "name": "\u0633\u064f\u0648\u0631\u064e\u0629\u064f \u0627\u0644\u0645\u064f\u0631\u06e1\u0633\u064e\u0644\u064e\u0627\u062a\u0650",
+                    "englishName": "Al-Mursalaat",
+                    "englishNameTranslation": "The Emissaries",
+                    "revelationType": "Meccan"
+                },
+                "numberInSurah": 27
+            },
+            {
+                "number": 5663,
+                "text": "Sesungguhnya orang-orang yang bertakwa berada dalam naungan (yang teduh) dan (di sekitar) mata-mata air.",
+                "edition": {
+                    "identifier": "id.indonesian",
+                    "language": "id",
+                    "name": "Bahasa Indonesia",
+                    "englishName": "Unknown",
+                    "type": "translation"
+                },
+                "surah": {
+                    "number": 77,
+                    "name": "\u0633\u064f\u0648\u0631\u064e\u0629\u064f \u0627\u0644\u0645\u064f\u0631\u06e1\u0633\u064e\u0644\u064e\u0627\u062a\u0650",
+                    "englishName": "Al-Mursalaat",
+                    "englishNameTranslation": "The Emissaries",
+                    "revelationType": "Meccan"
+                },
+                "numberInSurah": 41
+            },
+            {
+                "number": 5686,
+                "text": "dan Kami turunkan dari awan air yang banyak tercurah,",
+                "edition": {
+                    "identifier": "id.indonesian",
+                    "language": "id",
+                    "name": "Bahasa Indonesia",
+                    "englishName": "Unknown",
+                    "type": "translation"
+                },
+                "surah": {
+                    "number": 78,
+                    "name": "\u0633\u064f\u0648\u0631\u064e\u0629\u064f \u0627\u0644\u0646\u0651\u064e\u0628\u064e\u0625\u0650",
+                    "englishName": "An-Naba",
+                    "englishNameTranslation": "The Announcement",
+                    "revelationType": "Meccan"
+                },
+                "numberInSurah": 14
+            },
+            {
+                "number": 5687,
+                "text": "supaya Kami tumbuhkan dengan air itu biji-bijian dan tumbuh-tumbuhan,",
+                "edition": {
+                    "identifier": "id.indonesian",
+                    "language": "id",
+                    "name": "Bahasa Indonesia",
+                    "englishName": "Unknown",
+                    "type": "translation"
+                },
+                "surah": {
+                    "number": 78,
+                    "name": "\u0633\u064f\u0648\u0631\u064e\u0629\u064f \u0627\u0644\u0646\u0651\u064e\u0628\u064e\u0625\u0650",
+                    "englishName": "An-Naba",
+                    "englishNameTranslation": "The Announcement",
+                    "revelationType": "Meccan"
+                },
+                "numberInSurah": 15
+            },
+            {
+                "number": 5697,
+                "text": "selain air yang mendidih dan nanah,",
+                "edition": {
+                    "identifier": "id.indonesian",
+                    "language": "id",
+                    "name": "Bahasa Indonesia",
+                    "englishName": "Unknown",
+                    "type": "translation"
+                },
+                "surah": {
+                    "number": 78,
+                    "name": "\u0633\u064f\u0648\u0631\u064e\u0629\u064f \u0627\u0644\u0646\u0651\u064e\u0628\u064e\u0625\u0650",
+                    "englishName": "An-Naba",
+                    "englishNameTranslation": "The Announcement",
+                    "revelationType": "Meccan"
+                },
+                "numberInSurah": 25
+            },
+            {
+                "number": 5743,
+                "text": "Ia memancarkan daripadanya mata airnya, dan (menumbuhkan) tumbuh-tumbuhannya.",
+                "edition": {
+                    "identifier": "id.indonesian",
+                    "language": "id",
+                    "name": "Bahasa Indonesia",
+                    "englishName": "Unknown",
+                    "type": "translation"
+                },
+                "surah": {
+                    "number": 79,
+                    "name": "\u0633\u064f\u0648\u0631\u064e\u0629\u064f \u0627\u0644\u0646\u0651\u064e\u0627\u0632\u0650\u0639\u064e\u0627\u062a\u0650",
+                    "englishName": "An-Naazi'aat",
+                    "englishNameTranslation": "Those who drag forth",
+                    "revelationType": "Meccan"
+                },
+                "numberInSurah": 31
+            },
+            {
+                "number": 5783,
+                "text": "Sesungguhnya Kami benar-benar telah mencurahkan air (dari langit),",
+                "edition": {
+                    "identifier": "id.indonesian",
+                    "language": "id",
+                    "name": "Bahasa Indonesia",
+                    "englishName": "Unknown",
+                    "type": "translation"
+                },
+                "surah": {
+                    "number": 80,
+                    "name": "\u0633\u064f\u0648\u0631\u064e\u0629\u064f \u0639\u064e\u0628\u064e\u0633\u064e",
+                    "englishName": "Abasa",
+                    "englishNameTranslation": "He frowned",
+                    "revelationType": "Meccan"
+                },
+                "numberInSurah": 25
+            },
+            {
+                "number": 5876,
+                "text": "(yaitu) mata air yang minum daripadanya orang-orang yang didekatkan kepada Allah.",
+                "edition": {
+                    "identifier": "id.indonesian",
+                    "language": "id",
+                    "name": "Bahasa Indonesia",
+                    "englishName": "Unknown",
+                    "type": "translation"
+                },
+                "surah": {
+                    "number": 83,
+                    "name": "\u0633\u064f\u0648\u0631\u064e\u0629\u064f \u0627\u0644\u0645\u064f\u0637\u064e\u0641\u0651\u0650\u0641\u0650\u064a\u0646\u064e",
+                    "englishName": "Al-Mutaffifin",
+                    "englishNameTranslation": "Defrauding",
+                    "revelationType": "Meccan"
+                },
+                "numberInSurah": 28
+            },
+            {
+                "number": 5937,
+                "text": "Dia diciptakan dari air yang dipancarkan,",
+                "edition": {
+                    "identifier": "id.indonesian",
+                    "language": "id",
+                    "name": "Bahasa Indonesia",
+                    "englishName": "Unknown",
+                    "type": "translation"
+                },
+                "surah": {
+                    "number": 86,
+                    "name": "\u0633\u064f\u0648\u0631\u064e\u0629\u064f \u0627\u0644\u0637\u0651\u064e\u0627\u0631\u0650\u0642\u0650",
+                    "englishName": "At-Taariq",
+                    "englishNameTranslation": "The Morning Star",
+                    "revelationType": "Meccan"
+                },
+                "numberInSurah": 6
+            },
+            {
+                "number": 5972,
+                "text": "diberi minum (dengan air) dari sumber yang sangat panas.",
+                "edition": {
+                    "identifier": "id.indonesian",
+                    "language": "id",
+                    "name": "Bahasa Indonesia",
+                    "englishName": "Unknown",
+                    "type": "translation"
+                },
+                "surah": {
+                    "number": 88,
+                    "name": "\u0633\u064f\u0648\u0631\u064e\u0629\u064f \u0627\u0644\u063a\u064e\u0627\u0634\u0650\u064a\u064e\u0629\u0650",
+                    "englishName": "Al-Ghaashiya",
+                    "englishNameTranslation": "The Overwhelming",
+                    "revelationType": "Meccan"
+                },
+                "numberInSurah": 5
+            },
+            {
+                "number": 5979,
+                "text": "Di dalamnya ada mata air yang mengalir.",
+                "edition": {
+                    "identifier": "id.indonesian",
+                    "language": "id",
+                    "name": "Bahasa Indonesia",
+                    "englishName": "Unknown",
+                    "type": "translation"
+                },
+                "surah": {
+                    "number": 88,
+                    "name": "\u0633\u064f\u0648\u0631\u064e\u0629\u064f \u0627\u0644\u063a\u064e\u0627\u0634\u0650\u064a\u064e\u0629\u0650",
+                    "englishName": "Al-Ghaashiya",
+                    "englishNameTranslation": "The Overwhelming",
+                    "revelationType": "Meccan"
+                },
+                "numberInSurah": 12
+            }
+        ]
+    }
+}
