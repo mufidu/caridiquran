@@ -2,66 +2,79 @@
 const axios = require('axios')
 
 class VerseItem extends HTMLElement {
-  constructor () {
-    super()
-    this._shadowRoot = this.attachShadow({ mode: 'open' })
-  }
+    constructor () {
+        super()
+        this._shadowRoot = this.attachShadow({ mode: 'open' })
+    }
 
-  set verse (verse) {
-    return this.setter(verse)
-  }
+    set verse (verse) {
+        return this.setter(verse)
+    }
 
-  async setter (verse) {
-    this._verse = verse
-    const arabText = await axios.get(`https://api.alquran.cloud/v1/ayah/${this._verse.number}`)
-    this._arabText = arabText.data.data.text
-    console.log(this._arabText)
-    this.render()
-  }
+    async setter (verse) {
+        this._verse = verse
+        const arabText = await axios.get(`https://api.alquran.cloud/v1/ayah/${this._verse.number}`)
+        this._arabText = arabText.data.data.text
+        this.render()
+    }
 
-  render () {
-    this._shadowRoot.innerHTML = `
+    render () {
+        this._shadowRoot.innerHTML = `
             <style>
-            .verse {
-                margin-bottom: 18px;
-                box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
-                border-radius: 10px;
-                overflow: hidden;
-            }
+                .verse {
+                box-shadow: .2rem .2rem .3rem  rgba(0, 0, 0, 0.2);
+                border-radius: .5rem;
+                width: 50%;
+                margin-bottom: 2rem;
+                margin-left: auto;
+                margin-right: auto;
+                }
 
-            .verse .fan-art-verse {
-                width: 100%;
-                max-height: 300px;
-                object-fit: cover;
-                object-position: center;
-            }
+                .verse-content {
+                    padding: 1.5rem;
+                }
 
-            .verse-info {
-                padding: 24px;
-            }
+                .verse-content > p {
+                    margin-top: .5rem;
+                }
 
-            .verse-info > h2 {
-                font-weight: lighter;
-            }
+                .arabText {
+                    text-align: right;
+                    font-size: 1.5rem;
+                }
 
-            .verse-info > p {
-                margin-top: 10px;
-                overflow: hidden;
-                text-overflow: ellipsis;
-                display: -webkit-box;
-                -webkit-box-orient: vertical;
-                -webkit-line-clamp: 10; /* number of lines to show */
-            }
+                audio {
+                    margin-left: 1rem;
+                    margin-bottom: 1rem;
+                }
+
+                @media screen and (max-width: 850px){
+                    .verse {
+                        width: 85%;
+                    }
+
+                    audio {
+                        margin-left: 0;
+                        margin-bottom: 0;
+                    }
+                }
             </style>
             <div class="verse">
-            <img class="fan-art-verse" src="${this._verse.number}" alt="Fan Art">
-                <div class="verse-info">
-                <h2>${this._arabText}</h2>
-                <p>${this._verse.text}</p>
-                <p>${this._verse.surah.englishName}:${this._verse.numberInSurah}</p></div>
+                <div class="verse-content">
+                    <p class="arabText">${this._arabText}</p>
+                    <p>${this._verse.text}</p>
+                    <p><b>(Q.S. ${this._verse.surah.englishName}:${this._verse.numberInSurah})</b></p>
+                </div>
+                
+                <audio controls preload="none">
+
+                <source src="https://cdn.islamic.network/quran/audio/128/ar.alafasy/${this._verse.number}.mp3" type="audio/mpeg">
+
+                Maaf, browser Anda tidak mendukung pemutaran audio.
+                </audio>
             </div>
         `
-  }
+    }
 }
 
 customElements.define('verse-item', VerseItem)

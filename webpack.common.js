@@ -1,14 +1,14 @@
-const HtmlWebpackPlugin = require("html-webpack-plugin");
-const ESLintPlugin = require("eslint-webpack-plugin");
-const path = require("path");
+const HtmlWebpackPlugin = require('html-webpack-plugin')
+const ESLintPlugin = require('eslint-webpack-plugin')
+const path = require('path')
 
 module.exports = {
-    entry: "./src/app.js",
+    entry: './src/app.js',
     output: {
-        path: path.resolve(__dirname, "dist"),
-        filename: "[name].[fullhash:8].js",
-        sourceMapFilename: "[name].[fullhash:8].map",
-        chunkFilename: "[id].[fullhash:8].js",
+        path: path.resolve(__dirname, 'dist'),
+        filename: '[name].[fullhash:8].js',
+        sourceMapFilename: '[name].[fullhash:8].map',
+        chunkFilename: '[id].[fullhash:8].js'
     },
     module: {
         rules: [
@@ -16,23 +16,23 @@ module.exports = {
                 test: /\.css$/,
                 use: [
                     {
-                        loader: "style-loader",
+                        loader: 'style-loader'
                     },
                     {
-                        loader: "css-loader",
-                    },
-                ],
-            },
-        ],
+                        loader: 'css-loader'
+                    }
+                ]
+            }
+        ]
     },
     plugins: [
         new HtmlWebpackPlugin({
-            template: "./src/index.html",
-            filename: "index.html",
+            template: './src/index.html',
+            filename: 'index.html'
         }),
         new ESLintPlugin({
-            extensions: [".js"],
-            fix: true,
-        }),
-    ],
-};
+            extensions: ['.js', '.jsx'],
+            fix: true
+        })
+    ]
+}
