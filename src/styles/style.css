@@ -22,7 +22,7 @@ header {
             rgba(0, 0, 0, 0.7),
             rgba(0, 0, 0, 0.7)
         ),
-        url(../../assets/img/quran.webp);
+        url(../assets/img/quran.webp);
     height: 30vh;
     background-size: cover;
     background-position: center;
