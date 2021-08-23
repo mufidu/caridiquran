@@ -6,7 +6,7 @@
     "scripts": {
         "start": "webpack serve --hot --config webpack.dev.js",
         "build": "rm -rf dist/ && mkdir dist && webpack --config webpack.prod.js",
-        "deploy": "git branch -D gh-pages && git subtree split --prefix dist -b gh-pages && git push -f origin gh-pages:gh-pages"
+        "deploy": "mkdir ../caridiquran-backup && cp dist/* ../caridiquran-backup/ && git checkout main && rm -rf dist/ar && mkdir dist/ar && mv ../caridiquran-backup/* dist/ar/ && rm -rf dist/ar/ar && rm -rf ../caridiquran-backup && git add . && git commit -S && git push -f && npm run deploy"
     },
     "author": "Mufid",
     "license": "ISC",
