@@ -28,7 +28,7 @@ class SearchBar extends HTMLElement {
                     border-radius: .5rem;
                     display: flex;
                     background-color: white;
-                    margin: 2rem auto;
+                    margin: 0 auto 2rem;
                 }
 
                 .search-box > input {
