@@ -48,7 +48,21 @@ footer {
     width: 100%;
 }
 
-a {
+.switch {
+    text-align: center;
+    padding: 0.5rem;
+}
+
+.ar:visited, .ar:link {
+    color: black;
+    text-decoration: underline;
+}
+
+.ar:hover {
+    text-decoration: none;
+}
+
+a:visited, a:link {
     color: white;
     text-decoration: underline;
 }
