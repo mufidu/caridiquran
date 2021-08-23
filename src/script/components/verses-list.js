@@ -12,7 +12,7 @@ class VersesList extends HTMLElement {
         this.render()
     }
 
-    render () {
+    async render () {
         this._shadowRoot.innerHTML = `
                                 <style>
                                     p {
@@ -21,11 +21,15 @@ class VersesList extends HTMLElement {
                                 </style>        
                                 <p>Ditemukan ${this._verses.count} hasil</p>
                             `
-        this._verses.matches.forEach((verse) => {
+
+        for (let i = 0; i < this._verses.matches.length; i++) {
+            const verse = this._verses.matches[i]
             const verseItemEl = document.createElement('verse-item')
             verseItemEl.verse = verse
+            // sleep for 0.5 second each request
+            await new Promise(resolve => setTimeout(resolve, 500))
             this._shadowRoot.appendChild(verseItemEl)
-        })
+        }
     }
 
     renderError (message) {

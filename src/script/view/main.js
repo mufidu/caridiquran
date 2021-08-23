@@ -11,7 +11,6 @@ const main = () => {
         try {
             const res = await DataSource.searchVerse(searchElement.value)
             versesList.verses = res.data.data
-            console.log(res.data.data)
         } catch {
             versesList.renderError(`Maaf, ${searchElement.value} tidak ditemukan.`)
         }
