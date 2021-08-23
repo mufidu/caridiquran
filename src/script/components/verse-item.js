@@ -15,6 +15,8 @@ class VerseItem extends HTMLElement {
         this._verse = verse
         const arabText = await axios.get(`https://api.alquran.cloud/v1/ayah/${this._verse.number}`)
         this._arabText = arabText.data.data.text
+        const indoText = await axios.get(`http://api.alquran.cloud/v1/ayah/${this._verse.number}/id.indonesian`)
+        this._indoText = indoText.data.data.text
         this.render()
     }
 
@@ -62,7 +64,7 @@ class VerseItem extends HTMLElement {
             <div class="verse">
                 <div class="verse-content">
                     <p class="arabText">${this._arabText}</p>
-                    <p>${this._verse.text}</p>
+                    <p>${this._indoText}</p>
                     <p><b>(Q.S. ${this._verse.surah.englishName}:${this._verse.numberInSurah})</b></p>
                 </div>
                 

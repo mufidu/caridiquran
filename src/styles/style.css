@@ -48,7 +48,21 @@ footer {
     width: 100%;
 }
 
-a {
+p {
+    text-align: center;
+    padding: 0.5rem;
+}
+
+.id:visited, .id:link {
+    color: black;
+    text-decoration: underline;
+}
+
+.id:hover {
+    text-decoration: none;
+}
+
+a:visited, a:link {
     color: white;
     text-decoration: underline;
 }

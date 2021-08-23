@@ -28,7 +28,7 @@ class SearchBar extends HTMLElement {
                     border-radius: .5rem;
                     display: flex;
                     background-color: white;
-                    margin: 2rem auto;
+                    margin: 0 auto 2rem;
                 }
 
                 .search-box > input {
@@ -92,11 +92,11 @@ class SearchBar extends HTMLElement {
             </style>
             <form id="search-box" class="search-box">
                 <input
-                    placeholder="Mau ayat tentang apa?"
+                    placeholder="ماذا تريد؟"
                     id="searchText"
                     type="search"
                 />
-                <button id="searchButton" type="submit">Cari</button>
+                <button id="searchButton" type="submit">ابحث</button>
             </form>
         `
 

@@ -17,9 +17,10 @@ class VersesList extends HTMLElement {
                                 <style>
                                     p {
                                         text-align: center;
+                                        font-size: 1.2em;
                                     }
                                 </style>        
-                                <p>Ditemukan ${this._verses.count} hasil</p>
+                                <p>هناك ${this._verses.count} آيات</p>
                             `
 
         for (let i = 0; i < this._verses.matches.length; i++) {
